@@ -1,0 +1,4153 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.51884558,42.375687 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Amherst Center",
+    "PlaceFIPS":2501360,
+    "TotalPopulation":19065,
+    "CSMOKING_CrudePrev":11.9,
+    "DEPRESSION_CrudePrev":25.6,
+    "OBESITY_CrudePrev":19.9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.10257763,41.72762402 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Fall River",
+    "PlaceFIPS":2523000,
+    "TotalPopulation":88857,
+    "CSMOKING_CrudePrev":21.6,
+    "DEPRESSION_CrudePrev":24.2,
+    "OBESITY_CrudePrev":29.2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.1935275,41.97249091 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Norton Center",
+    "PlaceFIPS":2550005,
+    "TotalPopulation":2671,
+    "CSMOKING_CrudePrev":10.9,
+    "DEPRESSION_CrudePrev":23.6,
+    "OBESITY_CrudePrev":20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.94422708,41.67139107 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"New Bedford",
+    "PlaceFIPS":2545000,
+    "TotalPopulation":95072,
+    "CSMOKING_CrudePrev":20.8,
+    "DEPRESSION_CrudePrev":23.5,
+    "OBESITY_CrudePrev":29.9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.522729,42.40735657 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"North Amherst",
+    "PlaceFIPS":2546295,
+    "TotalPopulation":6819,
+    "CSMOKING_CrudePrev":12.3,
+    "DEPRESSION_CrudePrev":23.4,
+    "OBESITY_CrudePrev":20.2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.09428766,41.90358398 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Taunton",
+    "PlaceFIPS":2569170,
+    "TotalPopulation":55874,
+    "CSMOKING_CrudePrev":18.8,
+    "DEPRESSION_CrudePrev":23.1,
+    "OBESITY_CrudePrev":28.4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.30319806,42.59721331 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Orange",
+    "PlaceFIPS":2551230,
+    "TotalPopulation":4018,
+    "CSMOKING_CrudePrev":18.7,
+    "DEPRESSION_CrudePrev":22.5,
+    "OBESITY_CrudePrev":27.9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.20977777,41.7281835 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Ocean Grove",
+    "PlaceFIPS":2550880,
+    "TotalPopulation":2811,
+    "CSMOKING_CrudePrev":16.5,
+    "DEPRESSION_CrudePrev":22.2,
+    "OBESITY_CrudePrev":26.7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.11660371,42.68440072 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"North Adams",
+    "PlaceFIPS":2546225,
+    "TotalPopulation":13708,
+    "CSMOKING_CrudePrev":18.3,
+    "DEPRESSION_CrudePrev":22.2,
+    "OBESITY_CrudePrev":25.8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.57185822,42.17638341 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Chicopee",
+    "PlaceFIPS":2513660,
+    "TotalPopulation":55298,
+    "CSMOKING_CrudePrev":17.7,
+    "DEPRESSION_CrudePrev":22,
+    "OBESITY_CrudePrev":30.8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.90642579,41.68507114 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Acushnet Center",
+    "PlaceFIPS":2500530,
+    "TotalPopulation":3073,
+    "CSMOKING_CrudePrev":16.6,
+    "DEPRESSION_CrudePrev":22,
+    "OBESITY_CrudePrev":25.8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.24599866,42.25489421 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Ware",
+    "PlaceFIPS":2572845,
+    "TotalPopulation":6170,
+    "CSMOKING_CrudePrev":17.3,
+    "DEPRESSION_CrudePrev":22,
+    "OBESITY_CrudePrev":25.8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.31115356,42.18879525 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Palmer Town",
+    "PlaceFIPS":2552144,
+    "TotalPopulation":12134,
+    "CSMOKING_CrudePrev":16.8,
+    "DEPRESSION_CrudePrev":21.8,
+    "OBESITY_CrudePrev":29.9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.5559555,42.60033337 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Turners Falls",
+    "PlaceFIPS":2570815,
+    "TotalPopulation":4470,
+    "CSMOKING_CrudePrev":17.5,
+    "DEPRESSION_CrudePrev":21.7,
+    "OBESITY_CrudePrev":27.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.99247555,42.24508821 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Spencer",
+    "PlaceFIPS":2566070,
+    "TotalPopulation":5700,
+    "CSMOKING_CrudePrev":20,
+    "DEPRESSION_CrudePrev":21.6,
+    "OBESITY_CrudePrev":32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.30480889,42.09898407 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Monson Center",
+    "PlaceFIPS":2542180,
+    "TotalPopulation":2107,
+    "CSMOKING_CrudePrev":15.1,
+    "DEPRESSION_CrudePrev":21.6,
+    "OBESITY_CrudePrev":27.9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.11240675,41.66262418 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"North Westport",
+    "PlaceFIPS":2549710,
+    "TotalPopulation":4575,
+    "CSMOKING_CrudePrev":15.1,
+    "DEPRESSION_CrudePrev":21.6,
+    "OBESITY_CrudePrev":25.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.8822326,42.24078348 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Huntington",
+    "PlaceFIPS":2531750,
+    "TotalPopulation":936,
+    "CSMOKING_CrudePrev":16.2,
+    "DEPRESSION_CrudePrev":21.6,
+    "OBESITY_CrudePrev":24.8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.7561042,42.13819242 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Westfield",
+    "PlaceFIPS":2576030,
+    "TotalPopulation":41094,
+    "CSMOKING_CrudePrev":14.5,
+    "DEPRESSION_CrudePrev":21.5,
+    "OBESITY_CrudePrev":27.6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.49254446,42.57922837 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Millers Falls",
+    "PlaceFIPS":2541410,
+    "TotalPopulation":1139,
+    "CSMOKING_CrudePrev":16,
+    "DEPRESSION_CrudePrev":21.5,
+    "OBESITY_CrudePrev":26.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.50817905,41.68455202 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Forestdale",
+    "PlaceFIPS":2524190,
+    "TotalPopulation":4099,
+    "CSMOKING_CrudePrev":15.9,
+    "DEPRESSION_CrudePrev":21.4,
+    "OBESITY_CrudePrev":27.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.53952002,42.11550322 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Springfield",
+    "PlaceFIPS":2567000,
+    "TotalPopulation":153060,
+    "CSMOKING_CrudePrev":19.4,
+    "DEPRESSION_CrudePrev":21.3,
+    "OBESITY_CrudePrev":36
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.64111991,42.21249898 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Holyoke",
+    "PlaceFIPS":2530840,
+    "TotalPopulation":39880,
+    "CSMOKING_CrudePrev":18.4,
+    "DEPRESSION_CrudePrev":21.3,
+    "OBESITY_CrudePrev":34.6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.15305537,42.05449685 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Holland",
+    "PlaceFIPS":2530630,
+    "TotalPopulation":1464,
+    "CSMOKING_CrudePrev":16,
+    "DEPRESSION_CrudePrev":21.3,
+    "OBESITY_CrudePrev":29.6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.86417286,42.19648568 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Russell",
+    "PlaceFIPS":2558615,
+    "TotalPopulation":786,
+    "CSMOKING_CrudePrev":15.1,
+    "DEPRESSION_CrudePrev":21.3,
+    "OBESITY_CrudePrev":28.6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.59855977,42.61402749 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Greenfield Town",
+    "PlaceFIPS":2527100,
+    "TotalPopulation":17456,
+    "CSMOKING_CrudePrev":16.2,
+    "DEPRESSION_CrudePrev":21.3,
+    "OBESITY_CrudePrev":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.29489221,41.93111026 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Attleboro",
+    "PlaceFIPS":2502690,
+    "TotalPopulation":43593,
+    "CSMOKING_CrudePrev":15.6,
+    "DEPRESSION_CrudePrev":21.3,
+    "OBESITY_CrudePrev":26.3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.99195049,41.64315866 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Smith Mills",
+    "PlaceFIPS":2562300,
+    "TotalPopulation":4773,
+    "CSMOKING_CrudePrev":15.5,
+    "DEPRESSION_CrudePrev":21.3,
+    "OBESITY_CrudePrev":25.6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.23023409,42.59364209 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Athol",
+    "PlaceFIPS":2502515,
+    "TotalPopulation":8265,
+    "CSMOKING_CrudePrev":19,
+    "DEPRESSION_CrudePrev":21.2,
+    "OBESITY_CrudePrev":32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.65023823,42.1253234 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"West Springfield Town",
+    "PlaceFIPS":2577890,
+    "TotalPopulation":28391,
+    "CSMOKING_CrudePrev":15.7,
+    "DEPRESSION_CrudePrev":21,
+    "OBESITY_CrudePrev":29.1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.92413358,42.17806727 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Blandford",
+    "PlaceFIPS":2506050,
+    "TotalPopulation":393,
+    "CSMOKING_CrudePrev":15.8,
+    "DEPRESSION_CrudePrev":20.9,
+    "OBESITY_CrudePrev":28.8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.63895731,41.79328787 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"White Island Shores",
+    "PlaceFIPS":2579390,
+    "TotalPopulation":2106,
+    "CSMOKING_CrudePrev":19.5,
+    "DEPRESSION_CrudePrev":20.9,
+    "OBESITY_CrudePrev":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.17568756,41.7269559 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Somerset",
+    "PlaceFIPS":2562465,
+    "TotalPopulation":18165,
+    "CSMOKING_CrudePrev":14,
+    "DEPRESSION_CrudePrev":20.9,
+    "OBESITY_CrudePrev":25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.04308568,41.93271058 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Raynham Center",
+    "PlaceFIPS":2556095,
+    "TotalPopulation":4100,
+    "CSMOKING_CrudePrev":13.2,
+    "DEPRESSION_CrudePrev":20.9,
+    "OBESITY_CrudePrev":24.7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.8747939,42.04464016 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Webster",
+    "PlaceFIPS":2573930,
+    "TotalPopulation":11412,
+    "CSMOKING_CrudePrev":18.7,
+    "DEPRESSION_CrudePrev":20.8,
+    "OBESITY_CrudePrev":31.7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.32973314,41.8882459 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"North Seekonk",
+    "PlaceFIPS":2549200,
+    "TotalPopulation":2692,
+    "CSMOKING_CrudePrev":12.7,
+    "DEPRESSION_CrudePrev":20.8,
+    "OBESITY_CrudePrev":24.4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.03376693,42.06043374 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Southbridge Town",
+    "PlaceFIPS":2563345,
+    "TotalPopulation":16719,
+    "CSMOKING_CrudePrev":19.7,
+    "DEPRESSION_CrudePrev":20.7,
+    "OBESITY_CrudePrev":34.2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.98095873,42.28276428 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Chester",
+    "PlaceFIPS":2513450,
+    "TotalPopulation":627,
+    "CSMOKING_CrudePrev":15.2,
+    "DEPRESSION_CrudePrev":20.7,
+    "OBESITY_CrudePrev":28.9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.94213213,41.60546589 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Bliss Corner",
+    "PlaceFIPS":2506170,
+    "TotalPopulation":5295,
+    "CSMOKING_CrudePrev":14.7,
+    "DEPRESSION_CrudePrev":20.7,
+    "OBESITY_CrudePrev":25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.0905,42.77452585 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Haverhill",
+    "PlaceFIPS":2529405,
+    "TotalPopulation":60879,
+    "CSMOKING_CrudePrev":15.6,
+    "DEPRESSION_CrudePrev":20.6,
+    "OBESITY_CrudePrev":28.1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.67453407,42.32663481 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Northampton",
+    "PlaceFIPS":2546330,
+    "TotalPopulation":28549,
+    "CSMOKING_CrudePrev":11.1,
+    "DEPRESSION_CrudePrev":20.6,
+    "OBESITY_CrudePrev":22.2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.60240162,42.54634331 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Deerfield",
+    "PlaceFIPS":2516635,
+    "TotalPopulation":643,
+    "CSMOKING_CrudePrev":13.7,
+    "DEPRESSION_CrudePrev":20.5,
+    "OBESITY_CrudePrev":26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.11862214,42.62776159 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Adams",
+    "PlaceFIPS":2500590,
+    "TotalPopulation":5515,
+    "CSMOKING_CrudePrev":16.8,
+    "DEPRESSION_CrudePrev":20.5,
+    "OBESITY_CrudePrev":24.8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.00478629,42.41848078 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Revere",
+    "PlaceFIPS":2556585,
+    "TotalPopulation":51746,
+    "CSMOKING_CrudePrev":16.4,
+    "DEPRESSION_CrudePrev":20.5,
+    "OBESITY_CrudePrev":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.98218456,42.37860596 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Winthrop Town",
+    "PlaceFIPS":2581005,
+    "TotalPopulation":17497,
+    "CSMOKING_CrudePrev":13.5,
+    "DEPRESSION_CrudePrev":20.5,
+    "OBESITY_CrudePrev":21.4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.10273665,42.2149999 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Brookfield",
+    "PlaceFIPS":2509070,
+    "TotalPopulation":833,
+    "CSMOKING_CrudePrev":17.2,
+    "DEPRESSION_CrudePrev":20.4,
+    "OBESITY_CrudePrev":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.18864928,42.21544179 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Warren",
+    "PlaceFIPS":2573055,
+    "TotalPopulation":1405,
+    "CSMOKING_CrudePrev":16.9,
+    "DEPRESSION_CrudePrev":20.4,
+    "OBESITY_CrudePrev":30.9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.65256268,42.06573409 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Agawam Town",
+    "PlaceFIPS":2500840,
+    "TotalPopulation":28438,
+    "CSMOKING_CrudePrev":13.9,
+    "DEPRESSION_CrudePrev":20.4,
+    "OBESITY_CrudePrev":27.8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.26052197,42.45170851 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Pittsfield",
+    "PlaceFIPS":2553960,
+    "TotalPopulation":44737,
+    "CSMOKING_CrudePrev":16.6,
+    "DEPRESSION_CrudePrev":20.4,
+    "OBESITY_CrudePrev":25.7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.74334878,42.60627093 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Shelburne Falls",
+    "PlaceFIPS":2561205,
+    "TotalPopulation":1731,
+    "CSMOKING_CrudePrev":13.9,
+    "DEPRESSION_CrudePrev":20.4,
+    "OBESITY_CrudePrev":25.6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.433447,42.70927704 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Northfield",
+    "PlaceFIPS":2547800,
+    "TotalPopulation":1089,
+    "CSMOKING_CrudePrev":14.2,
+    "DEPRESSION_CrudePrev":20.4,
+    "OBESITY_CrudePrev":25.2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.98675562,42.58451537 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Gardner",
+    "PlaceFIPS":2525485,
+    "TotalPopulation":20228,
+    "CSMOKING_CrudePrev":18.3,
+    "DEPRESSION_CrudePrev":20.3,
+    "OBESITY_CrudePrev":32.1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.60764903,41.45660692 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Vineyard Haven",
+    "PlaceFIPS":2571970,
+    "TotalPopulation":2114,
+    "CSMOKING_CrudePrev":15.2,
+    "DEPRESSION_CrudePrev":20.3,
+    "OBESITY_CrudePrev":25.9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.36265561,42.24878796 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Housatonic",
+    "PlaceFIPS":2531295,
+    "TotalPopulation":1109,
+    "CSMOKING_CrudePrev":15.2,
+    "DEPRESSION_CrudePrev":20.3,
+    "OBESITY_CrudePrev":25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.16234375,42.56113884 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Cheshire",
+    "PlaceFIPS":2513310,
+    "TotalPopulation":514,
+    "CSMOKING_CrudePrev":15.3,
+    "DEPRESSION_CrudePrev":20.3,
+    "OBESITY_CrudePrev":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.6720518,42.26514079 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Easthampton Town",
+    "PlaceFIPS":2519370,
+    "TotalPopulation":16053,
+    "CSMOKING_CrudePrev":13.1,
+    "DEPRESSION_CrudePrev":20.3,
+    "OBESITY_CrudePrev":23.4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.3930975,42.26798151 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Belchertown",
+    "PlaceFIPS":2504790,
+    "TotalPopulation":2899,
+    "CSMOKING_CrudePrev":12.5,
+    "DEPRESSION_CrudePrev":20.3,
+    "OBESITY_CrudePrev":22.6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.81560139,42.59124027 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Fitchburg",
+    "PlaceFIPS":2523875,
+    "TotalPopulation":40318,
+    "CSMOKING_CrudePrev":17.5,
+    "DEPRESSION_CrudePrev":20.2,
+    "OBESITY_CrudePrev":31.8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.869584,42.11755612 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Oxford",
+    "PlaceFIPS":2551790,
+    "TotalPopulation":6103,
+    "CSMOKING_CrudePrev":17,
+    "DEPRESSION_CrudePrev":20.2,
+    "OBESITY_CrudePrev":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.04362942,42.68093061 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Winchendon",
+    "PlaceFIPS":2580370,
+    "TotalPopulation":4213,
+    "CSMOKING_CrudePrev":16.6,
+    "DEPRESSION_CrudePrev":20.2,
+    "OBESITY_CrudePrev":29.9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.08421064,42.2711685 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"North Brookfield",
+    "PlaceFIPS":2547100,
+    "TotalPopulation":2265,
+    "CSMOKING_CrudePrev":15.5,
+    "DEPRESSION_CrudePrev":20.2,
+    "OBESITY_CrudePrev":29.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.90703711,42.51063016 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Salem",
+    "PlaceFIPS":2559105,
+    "TotalPopulation":41340,
+    "CSMOKING_CrudePrev":13.6,
+    "DEPRESSION_CrudePrev":20.2,
+    "OBESITY_CrudePrev":26.6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.13591543,41.66786877 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Dennis Port",
+    "PlaceFIPS":2516810,
+    "TotalPopulation":3162,
+    "CSMOKING_CrudePrev":14.8,
+    "DEPRESSION_CrudePrev":20.1,
+    "OBESITY_CrudePrev":27.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.71476824,41.74248877 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Wareham Center",
+    "PlaceFIPS":2573020,
+    "TotalPopulation":2896,
+    "CSMOKING_CrudePrev":17.3,
+    "DEPRESSION_CrudePrev":20.1,
+    "OBESITY_CrudePrev":27.4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.03256054,42.39651684 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Chelsea",
+    "PlaceFIPS":2513205,
+    "TotalPopulation":35177,
+    "CSMOKING_CrudePrev":17.3,
+    "DEPRESSION_CrudePrev":20.1,
+    "OBESITY_CrudePrev":26.1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.94463206,42.85294806 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Amesbury Town",
+    "PlaceFIPS":2501260,
+    "TotalPopulation":16283,
+    "CSMOKING_CrudePrev":13.5,
+    "DEPRESSION_CrudePrev":20.1,
+    "OBESITY_CrudePrev":26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.92606375,41.89454121 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Middleborough Center",
+    "PlaceFIPS":2540885,
+    "TotalPopulation":7319,
+    "CSMOKING_CrudePrev":17.7,
+    "DEPRESSION_CrudePrev":20.1,
+    "OBESITY_CrudePrev":25.7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.59474728,42.47953952 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"South Deerfield",
+    "PlaceFIPS":2563620,
+    "TotalPopulation":1880,
+    "CSMOKING_CrudePrev":13.1,
+    "DEPRESSION_CrudePrev":20.1,
+    "OBESITY_CrudePrev":25.1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.21805564,42.02249279 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Mansfield Center",
+    "PlaceFIPS":2538230,
+    "TotalPopulation":7360,
+    "CSMOKING_CrudePrev":11.8,
+    "DEPRESSION_CrudePrev":20.1,
+    "OBESITY_CrudePrev":23.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.5194505,42.33891112 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"South Amherst",
+    "PlaceFIPS":2562675,
+    "TotalPopulation":4994,
+    "CSMOKING_CrudePrev":9.2,
+    "DEPRESSION_CrudePrev":20.1,
+    "OBESITY_CrudePrev":18.9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.6855346,42.41821744 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Clinton",
+    "PlaceFIPS":2514430,
+    "TotalPopulation":7389,
+    "CSMOKING_CrudePrev":16.6,
+    "DEPRESSION_CrudePrev":20,
+    "OBESITY_CrudePrev":31.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.68895256,41.97288385 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"North Plymouth",
+    "PlaceFIPS":2548780,
+    "TotalPopulation":3600,
+    "CSMOKING_CrudePrev":18,
+    "DEPRESSION_CrudePrev":20,
+    "OBESITY_CrudePrev":26.2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.80794075,42.27054324 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Worcester",
+    "PlaceFIPS":2582000,
+    "TotalPopulation":181045,
+    "CSMOKING_CrudePrev":17.3,
+    "DEPRESSION_CrudePrev":19.9,
+    "OBESITY_CrudePrev":32.2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.07713813,42.60482143 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Baldwinville",
+    "PlaceFIPS":2503355,
+    "TotalPopulation":2028,
+    "CSMOKING_CrudePrev":16.1,
+    "DEPRESSION_CrudePrev":19.9,
+    "OBESITY_CrudePrev":29.7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.66886415,42.1145316 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Whitinsville",
+    "PlaceFIPS":2579495,
+    "TotalPopulation":6704,
+    "CSMOKING_CrudePrev":15.1,
+    "DEPRESSION_CrudePrev":19.9,
+    "OBESITY_CrudePrev":29.3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.01546385,42.46883505 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Saugus",
+    "PlaceFIPS":2560050,
+    "TotalPopulation":26637,
+    "CSMOKING_CrudePrev":14.7,
+    "DEPRESSION_CrudePrev":19.9,
+    "OBESITY_CrudePrev":26.6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.24714497,41.65219302 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"West Yarmouth",
+    "PlaceFIPS":2578795,
+    "TotalPopulation":6012,
+    "CSMOKING_CrudePrev":14.5,
+    "DEPRESSION_CrudePrev":19.9,
+    "OBESITY_CrudePrev":26.1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.56341072,42.66532511 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"East Pepperell",
+    "PlaceFIPS":2520310,
+    "TotalPopulation":2059,
+    "CSMOKING_CrudePrev":12.5,
+    "DEPRESSION_CrudePrev":19.9,
+    "OBESITY_CrudePrev":23.4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.10225136,42.30916082 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Boston",
+    "PlaceFIPS":2507000,
+    "TotalPopulation":617594,
+    "CSMOKING_CrudePrev":13.1,
+    "DEPRESSION_CrudePrev":19.9,
+    "OBESITY_CrudePrev":21.9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.51670712,42.14771054 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Milford",
+    "PlaceFIPS":2541200,
+    "TotalPopulation":25055,
+    "CSMOKING_CrudePrev":16.4,
+    "DEPRESSION_CrudePrev":19.8,
+    "OBESITY_CrudePrev":30.4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.96622762,42.47834849 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Lynn",
+    "PlaceFIPS":2537490,
+    "TotalPopulation":90329,
+    "CSMOKING_CrudePrev":17.5,
+    "DEPRESSION_CrudePrev":19.8,
+    "OBESITY_CrudePrev":30.1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.68995999,42.62516712 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Gloucester",
+    "PlaceFIPS":2526150,
+    "TotalPopulation":28789,
+    "CSMOKING_CrudePrev":13.7,
+    "DEPRESSION_CrudePrev":19.8,
+    "OBESITY_CrudePrev":26.6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.55602673,41.57118131 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"East Falmouth",
+    "PlaceFIPS":2518980,
+    "TotalPopulation":6038,
+    "CSMOKING_CrudePrev":14.3,
+    "DEPRESSION_CrudePrev":19.8,
+    "OBESITY_CrudePrev":26.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.6021199,41.72062645 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Monument Beach",
+    "PlaceFIPS":2542670,
+    "TotalPopulation":2790,
+    "CSMOKING_CrudePrev":13.1,
+    "DEPRESSION_CrudePrev":19.8,
+    "OBESITY_CrudePrev":26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.53346939,41.79040073 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Sagamore",
+    "PlaceFIPS":2558965,
+    "TotalPopulation":3623,
+    "CSMOKING_CrudePrev":13.2,
+    "DEPRESSION_CrudePrev":19.8,
+    "OBESITY_CrudePrev":25.6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.22024925,42.72258624 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Methuen Town",
+    "PlaceFIPS":2540710,
+    "TotalPopulation":47252,
+    "CSMOKING_CrudePrev":14.5,
+    "DEPRESSION_CrudePrev":19.7,
+    "OBESITY_CrudePrev":27.2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.86209349,42.56882142 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Beverly",
+    "PlaceFIPS":2505595,
+    "TotalPopulation":39502,
+    "CSMOKING_CrudePrev":11.8,
+    "DEPRESSION_CrudePrev":19.7,
+    "OBESITY_CrudePrev":24.7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.20121325,42.70871133 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Williamstown",
+    "PlaceFIPS":2579950,
+    "TotalPopulation":4325,
+    "CSMOKING_CrudePrev":8.8,
+    "DEPRESSION_CrudePrev":19.7,
+    "OBESITY_CrudePrev":17.7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.16261467,42.70024364 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Lawrence",
+    "PlaceFIPS":2534550,
+    "TotalPopulation":76380,
+    "CSMOKING_CrudePrev":17.2,
+    "DEPRESSION_CrudePrev":19.6,
+    "OBESITY_CrudePrev":33.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.77167098,42.52087855 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Leominster",
+    "PlaceFIPS":2535075,
+    "TotalPopulation":40759,
+    "CSMOKING_CrudePrev":16.6,
+    "DEPRESSION_CrudePrev":19.6,
+    "OBESITY_CrudePrev":31.6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.1567585,41.7013319 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"South Dennis",
+    "PlaceFIPS":2563655,
+    "TotalPopulation":3643,
+    "CSMOKING_CrudePrev":13.9,
+    "DEPRESSION_CrudePrev":19.6,
+    "OBESITY_CrudePrev":26.1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.84153305,42.83651574 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Salisbury",
+    "PlaceFIPS":2559210,
+    "TotalPopulation":4869,
+    "CSMOKING_CrudePrev":13.3,
+    "DEPRESSION_CrudePrev":19.6,
+    "OBESITY_CrudePrev":26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.36045615,41.67286573 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Barnstable Town",
+    "PlaceFIPS":2503690,
+    "TotalPopulation":45193,
+    "CSMOKING_CrudePrev":13.9,
+    "DEPRESSION_CrudePrev":19.6,
+    "OBESITY_CrudePrev":25.9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.599467,42.37611513 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Hatfield",
+    "PlaceFIPS":2529230,
+    "TotalPopulation":1318,
+    "CSMOKING_CrudePrev":11.9,
+    "DEPRESSION_CrudePrev":19.6,
+    "OBESITY_CrudePrev":23.1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.73366645,41.73348459 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Weweantic",
+    "PlaceFIPS":2578850,
+    "TotalPopulation":2105,
+    "CSMOKING_CrudePrev":17,
+    "DEPRESSION_CrudePrev":19.5,
+    "OBESITY_CrudePrev":25.7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.25039808,42.30685029 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Lee",
+    "PlaceFIPS":2534620,
+    "TotalPopulation":2051,
+    "CSMOKING_CrudePrev":13.1,
+    "DEPRESSION_CrudePrev":19.5,
+    "OBESITY_CrudePrev":22.7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.59038724,42.6694132 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Pepperell",
+    "PlaceFIPS":2552770,
+    "TotalPopulation":2504,
+    "CSMOKING_CrudePrev":12.1,
+    "DEPRESSION_CrudePrev":19.5,
+    "OBESITY_CrudePrev":22.6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.71207505,42.07792765 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"East Douglas",
+    "PlaceFIPS":2518875,
+    "TotalPopulation":2557,
+    "CSMOKING_CrudePrev":13.9,
+    "DEPRESSION_CrudePrev":19.4,
+    "OBESITY_CrudePrev":28.7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.05369716,42.40718776 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Everett",
+    "PlaceFIPS":2521990,
+    "TotalPopulation":41667,
+    "CSMOKING_CrudePrev":15.6,
+    "DEPRESSION_CrudePrev":19.4,
+    "OBESITY_CrudePrev":26.1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.36216354,42.193581 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Great Barrington",
+    "PlaceFIPS":2526780,
+    "TotalPopulation":2231,
+    "CSMOKING_CrudePrev":14.7,
+    "DEPRESSION_CrudePrev":19.4,
+    "OBESITY_CrudePrev":24.8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.97487499,41.97282989 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Bridgewater Town",
+    "PlaceFIPS":2508130,
+    "TotalPopulation":26563,
+    "CSMOKING_CrudePrev":14.6,
+    "DEPRESSION_CrudePrev":19.4,
+    "OBESITY_CrudePrev":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.61133619,41.74965395 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Buzzards Bay",
+    "PlaceFIPS":2510015,
+    "TotalPopulation":3859,
+    "CSMOKING_CrudePrev":11.7,
+    "DEPRESSION_CrudePrev":19.4,
+    "OBESITY_CrudePrev":21.9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.0393865,42.23474065 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"East Brookfield",
+    "PlaceFIPS":2518595,
+    "TotalPopulation":1323,
+    "CSMOKING_CrudePrev":15.1,
+    "DEPRESSION_CrudePrev":19.3,
+    "OBESITY_CrudePrev":29.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.10637994,42.4230077 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Barre",
+    "PlaceFIPS":2503705,
+    "TotalPopulation":1009,
+    "CSMOKING_CrudePrev":14.5,
+    "DEPRESSION_CrudePrev":19.3,
+    "OBESITY_CrudePrev":29.1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.70032875,42.43226207 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"South Lancaster",
+    "PlaceFIPS":2564460,
+    "TotalPopulation":1894,
+    "CSMOKING_CrudePrev":13.6,
+    "DEPRESSION_CrudePrev":19.3,
+    "OBESITY_CrudePrev":28.8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.97255217,42.53351488 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Peabody",
+    "PlaceFIPS":2552490,
+    "TotalPopulation":51251,
+    "CSMOKING_CrudePrev":13.5,
+    "DEPRESSION_CrudePrev":19.3,
+    "OBESITY_CrudePrev":25.9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.83072324,42.67922127 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Ipswich",
+    "PlaceFIPS":2532275,
+    "TotalPopulation":4222,
+    "CSMOKING_CrudePrev":12.4,
+    "DEPRESSION_CrudePrev":19.3,
+    "OBESITY_CrudePrev":25.7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.47608788,42.09397924 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Bellingham",
+    "PlaceFIPS":2504965,
+    "TotalPopulation":4854,
+    "CSMOKING_CrudePrev":12.6,
+    "DEPRESSION_CrudePrev":19.3,
+    "OBESITY_CrudePrev":25.2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.656072,42.54405504 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Shirley",
+    "PlaceFIPS":2561555,
+    "TotalPopulation":1441,
+    "CSMOKING_CrudePrev":13.4,
+    "DEPRESSION_CrudePrev":19.3,
+    "OBESITY_CrudePrev":23.3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.7061655,42.67255148 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Townsend",
+    "PlaceFIPS":2570325,
+    "TotalPopulation":1128,
+    "CSMOKING_CrudePrev":12,
+    "DEPRESSION_CrudePrev":19.3,
+    "OBESITY_CrudePrev":22.6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.5243782,42.26324323 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Granby",
+    "PlaceFIPS":2526500,
+    "TotalPopulation":1368,
+    "CSMOKING_CrudePrev":11.7,
+    "DEPRESSION_CrudePrev":19.3,
+    "OBESITY_CrudePrev":22.3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.18724895,42.4910423 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Petersham",
+    "PlaceFIPS":2553085,
+    "TotalPopulation":243,
+    "CSMOKING_CrudePrev":15.4,
+    "DEPRESSION_CrudePrev":19.2,
+    "OBESITY_CrudePrev":30.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.02418945,42.08206034 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Brockton",
+    "PlaceFIPS":2509000,
+    "TotalPopulation":93810,
+    "CSMOKING_CrudePrev":19.7,
+    "DEPRESSION_CrudePrev":19.2,
+    "OBESITY_CrudePrev":29.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.46744835,41.61227058 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Mashpee Neck",
+    "PlaceFIPS":2539152,
+    "TotalPopulation":1000,
+    "CSMOKING_CrudePrev":12.4,
+    "DEPRESSION_CrudePrev":19.2,
+    "OBESITY_CrudePrev":25.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.95044414,42.57485734 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Danvers",
+    "PlaceFIPS":2516285,
+    "TotalPopulation":26493,
+    "CSMOKING_CrudePrev":12.1,
+    "DEPRESSION_CrudePrev":19.2,
+    "OBESITY_CrudePrev":25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.51914252,41.39029552 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Edgartown",
+    "PlaceFIPS":2521115,
+    "TotalPopulation":644,
+    "CSMOKING_CrudePrev":13.6,
+    "DEPRESSION_CrudePrev":19.2,
+    "OBESITY_CrudePrev":24.3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.72696936,42.59342091 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Lunenburg",
+    "PlaceFIPS":2537385,
+    "TotalPopulation":1760,
+    "CSMOKING_CrudePrev":14.3,
+    "DEPRESSION_CrudePrev":19.1,
+    "OBESITY_CrudePrev":29.6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.60816863,41.73450422 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Bourne",
+    "PlaceFIPS":2507140,
+    "TotalPopulation":1418,
+    "CSMOKING_CrudePrev":13.3,
+    "DEPRESSION_CrudePrev":19.1,
+    "OBESITY_CrudePrev":26.1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.20040505,41.66939507 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"South Yarmouth",
+    "PlaceFIPS":2566035,
+    "TotalPopulation":11092,
+    "CSMOKING_CrudePrev":13.8,
+    "DEPRESSION_CrudePrev":19.1,
+    "OBESITY_CrudePrev":25.6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.87497458,42.71863218 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Rowley",
+    "PlaceFIPS":2558370,
+    "TotalPopulation":1416,
+    "CSMOKING_CrudePrev":11.8,
+    "DEPRESSION_CrudePrev":19.1,
+    "OBESITY_CrudePrev":25.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.670061,41.74991692 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Onset",
+    "PlaceFIPS":2551160,
+    "TotalPopulation":1573,
+    "CSMOKING_CrudePrev":16.3,
+    "DEPRESSION_CrudePrev":19,
+    "OBESITY_CrudePrev":26.2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.49966687,41.7570591 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Sandwich",
+    "PlaceFIPS":2559700,
+    "TotalPopulation":2962,
+    "CSMOKING_CrudePrev":12.2,
+    "DEPRESSION_CrudePrev":19,
+    "OBESITY_CrudePrev":25.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.94751396,42.19411079 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Weymouth Town",
+    "PlaceFIPS":2578972,
+    "TotalPopulation":53743,
+    "CSMOKING_CrudePrev":12.8,
+    "DEPRESSION_CrudePrev":19,
+    "OBESITY_CrudePrev":25.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.10264919,41.69200169 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Northwest Harwich",
+    "PlaceFIPS":2549700,
+    "TotalPopulation":3929,
+    "CSMOKING_CrudePrev":12.5,
+    "DEPRESSION_CrudePrev":19,
+    "OBESITY_CrudePrev":25.3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.67184,42.10900746 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Ocean Bluff-Brant Rock",
+    "PlaceFIPS":2550862,
+    "TotalPopulation":4970,
+    "CSMOKING_CrudePrev":14,
+    "DEPRESSION_CrudePrev":19,
+    "OBESITY_CrudePrev":24.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.85212705,42.06490538 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Hanson",
+    "PlaceFIPS":2528460,
+    "TotalPopulation":2118,
+    "CSMOKING_CrudePrev":14.8,
+    "DEPRESSION_CrudePrev":19,
+    "OBESITY_CrudePrev":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.06345449,42.10011396 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Sturbridge",
+    "PlaceFIPS":2568120,
+    "TotalPopulation":2253,
+    "CSMOKING_CrudePrev":13.7,
+    "DEPRESSION_CrudePrev":18.9,
+    "OBESITY_CrudePrev":29.2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.951944,42.36753341 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Rutland",
+    "PlaceFIPS":2558790,
+    "TotalPopulation":2111,
+    "CSMOKING_CrudePrev":12.7,
+    "DEPRESSION_CrudePrev":18.9,
+    "OBESITY_CrudePrev":28.3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.93838491,42.61381135 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"South Ashburnham",
+    "PlaceFIPS":2562780,
+    "TotalPopulation":1062,
+    "CSMOKING_CrudePrev":12.8,
+    "DEPRESSION_CrudePrev":18.9,
+    "OBESITY_CrudePrev":27.8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.00568312,42.14705019 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Holbrook",
+    "PlaceFIPS":2530420,
+    "TotalPopulation":10791,
+    "CSMOKING_CrudePrev":13.6,
+    "DEPRESSION_CrudePrev":18.9,
+    "OBESITY_CrudePrev":26.6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.03505791,41.70777361 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"East Harwich",
+    "PlaceFIPS":2519400,
+    "TotalPopulation":4872,
+    "CSMOKING_CrudePrev":12.1,
+    "DEPRESSION_CrudePrev":18.9,
+    "OBESITY_CrudePrev":25.2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.51230228,41.56610773 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Seconsett Island",
+    "PlaceFIPS":2560627,
+    "TotalPopulation":100,
+    "CSMOKING_CrudePrev":10.4,
+    "DEPRESSION_CrudePrev":18.9,
+    "OBESITY_CrudePrev":24.3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.67002499,41.95320933 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Plymouth",
+    "PlaceFIPS":2554275,
+    "TotalPopulation":7494,
+    "CSMOKING_CrudePrev":14.5,
+    "DEPRESSION_CrudePrev":18.9,
+    "OBESITY_CrudePrev":23.9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.56449623,42.39182442 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Hudson",
+    "PlaceFIPS":2531575,
+    "TotalPopulation":14907,
+    "CSMOKING_CrudePrev":11.9,
+    "DEPRESSION_CrudePrev":18.9,
+    "OBESITY_CrudePrev":22.4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.10865002,42.12269045 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Fiskdale",
+    "PlaceFIPS":2523840,
+    "TotalPopulation":2583,
+    "CSMOKING_CrudePrev":13,
+    "DEPRESSION_CrudePrev":18.8,
+    "OBESITY_CrudePrev":28.7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.43450608,42.13408343 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Wilbraham",
+    "PlaceFIPS":2579705,
+    "TotalPopulation":3915,
+    "CSMOKING_CrudePrev":11.8,
+    "DEPRESSION_CrudePrev":18.8,
+    "OBESITY_CrudePrev":26.2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.65906217,42.07485574 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Green Harbor-Cedar Crest",
+    "PlaceFIPS":2527147,
+    "TotalPopulation":2609,
+    "CSMOKING_CrudePrev":13.4,
+    "DEPRESSION_CrudePrev":18.8,
+    "OBESITY_CrudePrev":24.3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.32171402,42.63887091 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Lowell",
+    "PlaceFIPS":2537000,
+    "TotalPopulation":106519,
+    "CSMOKING_CrudePrev":15.9,
+    "DEPRESSION_CrudePrev":18.8,
+    "OBESITY_CrudePrev":24.1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.54681112,42.34939967 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Marlborough",
+    "PlaceFIPS":2538715,
+    "TotalPopulation":38499,
+    "CSMOKING_CrudePrev":12.6,
+    "DEPRESSION_CrudePrev":18.8,
+    "OBESITY_CrudePrev":23.2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.279314,42.4582336 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Hanscom AFB",
+    "PlaceFIPS":2528425,
+    "TotalPopulation":1394,
+    "CSMOKING_CrudePrev":9.1,
+    "DEPRESSION_CrudePrev":18.8,
+    "OBESITY_CrudePrev":20.9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.54106275,42.12796914 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Hopedale",
+    "PlaceFIPS":2530980,
+    "TotalPopulation":3753,
+    "CSMOKING_CrudePrev":13.3,
+    "DEPRESSION_CrudePrev":18.7,
+    "OBESITY_CrudePrev":28.6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.06939186,41.69236178 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Harwich Center",
+    "PlaceFIPS":2529055,
+    "TotalPopulation":1798,
+    "CSMOKING_CrudePrev":11.8,
+    "DEPRESSION_CrudePrev":18.7,
+    "OBESITY_CrudePrev":25.3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.9590365,42.11804521 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Abington",
+    "PlaceFIPS":2500135,
+    "TotalPopulation":15985,
+    "CSMOKING_CrudePrev":14,
+    "DEPRESSION_CrudePrev":18.7,
+    "OBESITY_CrudePrev":23.7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.23395545,42.53335572 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Pinehurst",
+    "PlaceFIPS":2553680,
+    "TotalPopulation":7152,
+    "CSMOKING_CrudePrev":12.5,
+    "DEPRESSION_CrudePrev":18.7,
+    "OBESITY_CrudePrev":22.3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.9019129,42.81324242 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Newburyport",
+    "PlaceFIPS":2545245,
+    "TotalPopulation":17416,
+    "CSMOKING_CrudePrev":10.2,
+    "DEPRESSION_CrudePrev":18.6,
+    "OBESITY_CrudePrev":24.8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.73110346,41.99646567 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Kingston",
+    "PlaceFIPS":2533185,
+    "TotalPopulation":5591,
+    "CSMOKING_CrudePrev":13.9,
+    "DEPRESSION_CrudePrev":18.6,
+    "OBESITY_CrudePrev":23.9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.16540581,42.56091555 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Wilmington",
+    "PlaceFIPS":2580195,
+    "TotalPopulation":22325,
+    "CSMOKING_CrudePrev":11.3,
+    "DEPRESSION_CrudePrev":18.6,
+    "OBESITY_CrudePrev":22.1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.103662,42.38603872 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Somerville",
+    "PlaceFIPS":2562535,
+    "TotalPopulation":75754,
+    "CSMOKING_CrudePrev":9.9,
+    "DEPRESSION_CrudePrev":18.6,
+    "OBESITY_CrudePrev":20.6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.10573,41.27808338 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Nantucket",
+    "PlaceFIPS":2543755,
+    "TotalPopulation":7446,
+    "CSMOKING_CrudePrev":12.9,
+    "DEPRESSION_CrudePrev":18.5,
+    "OBESITY_CrudePrev":25.6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.75498852,41.78999746 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"West Wareham",
+    "PlaceFIPS":2578410,
+    "TotalPopulation":2064,
+    "CSMOKING_CrudePrev":15.7,
+    "DEPRESSION_CrudePrev":18.5,
+    "OBESITY_CrudePrev":25.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.60385252,41.68672725 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Pocasset",
+    "PlaceFIPS":2554450,
+    "TotalPopulation":2851,
+    "CSMOKING_CrudePrev":12.2,
+    "DEPRESSION_CrudePrev":18.5,
+    "OBESITY_CrudePrev":25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.507356,41.56645783 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Monomoscoy Island",
+    "PlaceFIPS":2541960,
+    "TotalPopulation":147,
+    "CSMOKING_CrudePrev":10.3,
+    "DEPRESSION_CrudePrev":18.5,
+    "OBESITY_CrudePrev":24.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.77431137,42.63329722 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Essex",
+    "PlaceFIPS":2521815,
+    "TotalPopulation":1471,
+    "CSMOKING_CrudePrev":10.4,
+    "DEPRESSION_CrudePrev":18.4,
+    "OBESITY_CrudePrev":25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.58573659,41.562475 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Teaticket",
+    "PlaceFIPS":2569205,
+    "TotalPopulation":1692,
+    "CSMOKING_CrudePrev":11.2,
+    "DEPRESSION_CrudePrev":18.4,
+    "OBESITY_CrudePrev":24.8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.45610558,42.42639489 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Maynard",
+    "PlaceFIPS":2539660,
+    "TotalPopulation":10106,
+    "CSMOKING_CrudePrev":10.1,
+    "DEPRESSION_CrudePrev":18.4,
+    "OBESITY_CrudePrev":21.8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.24826591,42.06442331 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Foxborough",
+    "PlaceFIPS":2524855,
+    "TotalPopulation":5625,
+    "CSMOKING_CrudePrev":11.1,
+    "DEPRESSION_CrudePrev":18.3,
+    "OBESITY_CrudePrev":24.3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.41128083,42.08621126 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Franklin Town",
+    "PlaceFIPS":2525172,
+    "TotalPopulation":31635,
+    "CSMOKING_CrudePrev":10.8,
+    "DEPRESSION_CrudePrev":18.3,
+    "OBESITY_CrudePrev":24.1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.87420654,42.28295698 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Hull",
+    "PlaceFIPS":2531680,
+    "TotalPopulation":10293,
+    "CSMOKING_CrudePrev":12.7,
+    "DEPRESSION_CrudePrev":18.3,
+    "OBESITY_CrudePrev":23.8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.43416795,41.73647955 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"East Sandwich",
+    "PlaceFIPS":2520380,
+    "TotalPopulation":3940,
+    "CSMOKING_CrudePrev":9.3,
+    "DEPRESSION_CrudePrev":18.3,
+    "OBESITY_CrudePrev":23.2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.43675643,42.30854055 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Framingham",
+    "PlaceFIPS":2524960,
+    "TotalPopulation":68318,
+    "CSMOKING_CrudePrev":11.9,
+    "DEPRESSION_CrudePrev":18.3,
+    "OBESITY_CrudePrev":22.7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.57065348,42.60836211 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Groton",
+    "PlaceFIPS":2527445,
+    "TotalPopulation":1124,
+    "CSMOKING_CrudePrev":9.2,
+    "DEPRESSION_CrudePrev":18.3,
+    "OBESITY_CrudePrev":21.8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.0655908,42.50350423 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Wakefield",
+    "PlaceFIPS":2572250,
+    "TotalPopulation":24932,
+    "CSMOKING_CrudePrev":10.2,
+    "DEPRESSION_CrudePrev":18.3,
+    "OBESITY_CrudePrev":21.4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.24381995,42.13708274 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Walpole",
+    "PlaceFIPS":2572460,
+    "TotalPopulation":5918,
+    "CSMOKING_CrudePrev":11.5,
+    "DEPRESSION_CrudePrev":18.2,
+    "OBESITY_CrudePrev":24.8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.35443025,42.16480752 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Millis-Clicquot",
+    "PlaceFIPS":2541532,
+    "TotalPopulation":4403,
+    "CSMOKING_CrudePrev":11,
+    "DEPRESSION_CrudePrev":18.2,
+    "OBESITY_CrudePrev":24.1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.94107264,41.8620075 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"North Lakeville",
+    "PlaceFIPS":2548220,
+    "TotalPopulation":2630,
+    "CSMOKING_CrudePrev":13.4,
+    "DEPRESSION_CrudePrev":18.2,
+    "OBESITY_CrudePrev":23.7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.60906986,41.55192512 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Falmouth",
+    "PlaceFIPS":2523070,
+    "TotalPopulation":3799,
+    "CSMOKING_CrudePrev":11.6,
+    "DEPRESSION_CrudePrev":18.1,
+    "OBESITY_CrudePrev":24.6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.57192835,42.04755432 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Longmeadow",
+    "PlaceFIPS":2536335,
+    "TotalPopulation":15784,
+    "CSMOKING_CrudePrev":9.1,
+    "DEPRESSION_CrudePrev":18.1,
+    "OBESITY_CrudePrev":24.4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.78227649,42.09889945 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"North Pembroke",
+    "PlaceFIPS":2548710,
+    "TotalPopulation":3292,
+    "CSMOKING_CrudePrev":12.4,
+    "DEPRESSION_CrudePrev":18.1,
+    "OBESITY_CrudePrev":22.6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.14183483,42.65539231 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Andover",
+    "PlaceFIPS":2501430,
+    "TotalPopulation":8762,
+    "CSMOKING_CrudePrev":8.9,
+    "DEPRESSION_CrudePrev":18.1,
+    "OBESITY_CrudePrev":22.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.58479098,42.56137883 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Ayer",
+    "PlaceFIPS":2503040,
+    "TotalPopulation":2868,
+    "CSMOKING_CrudePrev":10.5,
+    "DEPRESSION_CrudePrev":18.1,
+    "OBESITY_CrudePrev":21.9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.4727473,42.53525228 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Littleton Common",
+    "PlaceFIPS":2536020,
+    "TotalPopulation":2789,
+    "CSMOKING_CrudePrev":9.8,
+    "DEPRESSION_CrudePrev":18.1,
+    "OBESITY_CrudePrev":21.7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.109201,42.42390827 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Medford",
+    "PlaceFIPS":2539835,
+    "TotalPopulation":56173,
+    "CSMOKING_CrudePrev":10.3,
+    "DEPRESSION_CrudePrev":18.1,
+    "OBESITY_CrudePrev":21.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.15072225,42.23799793 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"West Brookfield",
+    "PlaceFIPS":2575365,
+    "TotalPopulation":1413,
+    "CSMOKING_CrudePrev":13.4,
+    "DEPRESSION_CrudePrev":18,
+    "OBESITY_CrudePrev":28.4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.19796275,42.04555962 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Provincetown",
+    "PlaceFIPS":2555535,
+    "TotalPopulation":2642,
+    "CSMOKING_CrudePrev":12.7,
+    "DEPRESSION_CrudePrev":18,
+    "OBESITY_CrudePrev":26.9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.61612565,42.64507973 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Rockport",
+    "PlaceFIPS":2557845,
+    "TotalPopulation":4966,
+    "CSMOKING_CrudePrev":9.5,
+    "DEPRESSION_CrudePrev":18,
+    "OBESITY_CrudePrev":24.1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.90674736,42.47590454 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Swampscott",
+    "PlaceFIPS":2568680,
+    "TotalPopulation":13787,
+    "CSMOKING_CrudePrev":9.8,
+    "DEPRESSION_CrudePrev":18,
+    "OBESITY_CrudePrev":23.9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.71950425,42.0964512 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Marshfield",
+    "PlaceFIPS":2538820,
+    "TotalPopulation":4335,
+    "CSMOKING_CrudePrev":12.2,
+    "DEPRESSION_CrudePrev":18,
+    "OBESITY_CrudePrev":23.2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.61403171,42.17642486 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Upton",
+    "PlaceFIPS":2571445,
+    "TotalPopulation":3013,
+    "CSMOKING_CrudePrev":10.6,
+    "DEPRESSION_CrudePrev":17.9,
+    "OBESITY_CrudePrev":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.93053307,42.42425881 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Nahant",
+    "PlaceFIPS":2543615,
+    "TotalPopulation":3410,
+    "CSMOKING_CrudePrev":10.1,
+    "DEPRESSION_CrudePrev":17.9,
+    "OBESITY_CrudePrev":24.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.99691975,41.85424955 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"North Eastham",
+    "PlaceFIPS":2547590,
+    "TotalPopulation":1806,
+    "CSMOKING_CrudePrev":10.4,
+    "DEPRESSION_CrudePrev":17.9,
+    "OBESITY_CrudePrev":24.2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.1656608,41.66640162 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"West Dennis",
+    "PlaceFIPS":2575820,
+    "TotalPopulation":2242,
+    "CSMOKING_CrudePrev":10.8,
+    "DEPRESSION_CrudePrev":17.9,
+    "OBESITY_CrudePrev":24.2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.00255731,42.20359173 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Braintree Town",
+    "PlaceFIPS":2507740,
+    "TotalPopulation":35744,
+    "CSMOKING_CrudePrev":11.8,
+    "DEPRESSION_CrudePrev":17.9,
+    "OBESITY_CrudePrev":24.2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.15426662,42.48687855 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Woburn",
+    "PlaceFIPS":2581035,
+    "TotalPopulation":38120,
+    "CSMOKING_CrudePrev":11,
+    "DEPRESSION_CrudePrev":17.9,
+    "OBESITY_CrudePrev":21.8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.6168463,42.26717597 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Westborough",
+    "PlaceFIPS":2575050,
+    "TotalPopulation":4045,
+    "CSMOKING_CrudePrev":11.7,
+    "DEPRESSION_CrudePrev":17.8,
+    "OBESITY_CrudePrev":27.2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.99182213,41.68060636 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"West Chatham",
+    "PlaceFIPS":2575505,
+    "TotalPopulation":1410,
+    "CSMOKING_CrudePrev":10.5,
+    "DEPRESSION_CrudePrev":17.8,
+    "OBESITY_CrudePrev":24.9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.19482199,42.18604722 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Norwood",
+    "PlaceFIPS":2550285,
+    "TotalPopulation":28602,
+    "CSMOKING_CrudePrev":11.4,
+    "DEPRESSION_CrudePrev":17.8,
+    "OBESITY_CrudePrev":24.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.86384657,42.49902077 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Marblehead",
+    "PlaceFIPS":2538435,
+    "TotalPopulation":19808,
+    "CSMOKING_CrudePrev":8.8,
+    "DEPRESSION_CrudePrev":17.8,
+    "OBESITY_CrudePrev":24.1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.05309025,42.54853908 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Lynnfield",
+    "PlaceFIPS":2537595,
+    "TotalPopulation":11596,
+    "CSMOKING_CrudePrev":10.2,
+    "DEPRESSION_CrudePrev":17.8,
+    "OBESITY_CrudePrev":23.8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.97197074,41.26348419 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Siasconset",
+    "PlaceFIPS":2561940,
+    "TotalPopulation":205,
+    "CSMOKING_CrudePrev":9.8,
+    "DEPRESSION_CrudePrev":17.8,
+    "OBESITY_CrudePrev":23.2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.09716235,42.47408935 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Stoneham",
+    "PlaceFIPS":2567700,
+    "TotalPopulation":21437,
+    "CSMOKING_CrudePrev":10.2,
+    "DEPRESSION_CrudePrev":17.8,
+    "OBESITY_CrudePrev":21.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.24231313,42.38891388 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Waltham",
+    "PlaceFIPS":2572600,
+    "TotalPopulation":60632,
+    "CSMOKING_CrudePrev":9.7,
+    "DEPRESSION_CrudePrev":17.8,
+    "OBESITY_CrudePrev":20.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.22571395,41.7099999 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Yarmouth Port",
+    "PlaceFIPS":2582595,
+    "TotalPopulation":5320,
+    "CSMOKING_CrudePrev":10.7,
+    "DEPRESSION_CrudePrev":17.7,
+    "OBESITY_CrudePrev":24.7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.2049465,41.73498563 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Dennis",
+    "PlaceFIPS":2516740,
+    "TotalPopulation":2407,
+    "CSMOKING_CrudePrev":10.6,
+    "DEPRESSION_CrudePrev":17.7,
+    "OBESITY_CrudePrev":24.2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.05900818,42.45561485 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Melrose",
+    "PlaceFIPS":2540115,
+    "TotalPopulation":26983,
+    "CSMOKING_CrudePrev":9.3,
+    "DEPRESSION_CrudePrev":17.7,
+    "OBESITY_CrudePrev":21.2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.17744578,42.36997893 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Watertown Town",
+    "PlaceFIPS":2573440,
+    "TotalPopulation":31915,
+    "CSMOKING_CrudePrev":8.9,
+    "DEPRESSION_CrudePrev":17.7,
+    "OBESITY_CrudePrev":20.3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.15782758,41.73936674 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"East Dennis",
+    "PlaceFIPS":2518840,
+    "TotalPopulation":2753,
+    "CSMOKING_CrudePrev":10.9,
+    "DEPRESSION_CrudePrev":17.6,
+    "OBESITY_CrudePrev":24.7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.63542802,41.5983419 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"West Falmouth",
+    "PlaceFIPS":2575960,
+    "TotalPopulation":1738,
+    "CSMOKING_CrudePrev":9.7,
+    "DEPRESSION_CrudePrev":17.6,
+    "OBESITY_CrudePrev":23.7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.05757895,42.43050109 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Malden",
+    "PlaceFIPS":2537875,
+    "TotalPopulation":59450,
+    "CSMOKING_CrudePrev":13.6,
+    "DEPRESSION_CrudePrev":17.6,
+    "OBESITY_CrudePrev":23.4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.0013738,41.78988113 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Orleans",
+    "PlaceFIPS":2551405,
+    "TotalPopulation":1621,
+    "CSMOKING_CrudePrev":10.2,
+    "DEPRESSION_CrudePrev":17.5,
+    "OBESITY_CrudePrev":24.3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.98311223,42.6694146 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Boxford",
+    "PlaceFIPS":2507385,
+    "TotalPopulation":2343,
+    "CSMOKING_CrudePrev":8.6,
+    "DEPRESSION_CrudePrev":17.5,
+    "OBESITY_CrudePrev":23.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.73655036,42.18672533 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Scituate",
+    "PlaceFIPS":2560295,
+    "TotalPopulation":5245,
+    "CSMOKING_CrudePrev":11.5,
+    "DEPRESSION_CrudePrev":17.5,
+    "OBESITY_CrudePrev":22.9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.18485667,41.28263296 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Madaket",
+    "PlaceFIPS":2537735,
+    "TotalPopulation":236,
+    "CSMOKING_CrudePrev":10.6,
+    "DEPRESSION_CrudePrev":17.4,
+    "OBESITY_CrudePrev":23.7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.64502488,42.31103175 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Northborough",
+    "PlaceFIPS":2546785,
+    "TotalPopulation":6167,
+    "CSMOKING_CrudePrev":10.7,
+    "DEPRESSION_CrudePrev":17.3,
+    "OBESITY_CrudePrev":26.4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.17765349,42.24662678 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Dedham",
+    "PlaceFIPS":2516530,
+    "TotalPopulation":24729,
+    "CSMOKING_CrudePrev":10.5,
+    "DEPRESSION_CrudePrev":17.3,
+    "OBESITY_CrudePrev":24.4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.0640963,41.6724533 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Harwich Port",
+    "PlaceFIPS":2529090,
+    "TotalPopulation":1644,
+    "CSMOKING_CrudePrev":9.8,
+    "DEPRESSION_CrudePrev":17.3,
+    "OBESITY_CrudePrev":24.3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.10557343,42.53505482 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Reading",
+    "PlaceFIPS":2556165,
+    "TotalPopulation":24747,
+    "CSMOKING_CrudePrev":8.5,
+    "DEPRESSION_CrudePrev":17.3,
+    "OBESITY_CrudePrev":20.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.136245,42.3840328 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Cambridge",
+    "PlaceFIPS":2511000,
+    "TotalPopulation":105162,
+    "CSMOKING_CrudePrev":7.9,
+    "DEPRESSION_CrudePrev":17.3,
+    "OBESITY_CrudePrev":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.52214356,42.27268028 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Cordaville",
+    "PlaceFIPS":2515340,
+    "TotalPopulation":2650,
+    "CSMOKING_CrudePrev":10.8,
+    "DEPRESSION_CrudePrev":17.2,
+    "OBESITY_CrudePrev":27.1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.49917566,41.58311446 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Seabrook",
+    "PlaceFIPS":2560505,
+    "TotalPopulation":455,
+    "CSMOKING_CrudePrev":9.5,
+    "DEPRESSION_CrudePrev":17.2,
+    "OBESITY_CrudePrev":23.6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.30319216,42.18701647 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Medfield",
+    "PlaceFIPS":2539730,
+    "TotalPopulation":6483,
+    "CSMOKING_CrudePrev":8.7,
+    "DEPRESSION_CrudePrev":17.2,
+    "OBESITY_CrudePrev":23.4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.95513507,42.63930938 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Topsfield",
+    "PlaceFIPS":2570115,
+    "TotalPopulation":2717,
+    "CSMOKING_CrudePrev":8.9,
+    "DEPRESSION_CrudePrev":17.2,
+    "OBESITY_CrudePrev":23.2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.73218306,42.14820761 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Marshfield Hills",
+    "PlaceFIPS":2538960,
+    "TotalPopulation":2356,
+    "CSMOKING_CrudePrev":11.4,
+    "DEPRESSION_CrudePrev":17.2,
+    "OBESITY_CrudePrev":23.2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.7633825,41.70092094 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Marion Center",
+    "PlaceFIPS":2538575,
+    "TotalPopulation":1111,
+    "CSMOKING_CrudePrev":12.1,
+    "DEPRESSION_CrudePrev":17.2,
+    "OBESITY_CrudePrev":23.2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.078855,41.76085578 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Brewster",
+    "PlaceFIPS":2507945,
+    "TotalPopulation":2000,
+    "CSMOKING_CrudePrev":9,
+    "DEPRESSION_CrudePrev":17.2,
+    "OBESITY_CrudePrev":22.9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.65943071,41.53041139 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Woods Hole",
+    "PlaceFIPS":2581245,
+    "TotalPopulation":781,
+    "CSMOKING_CrudePrev":8.5,
+    "DEPRESSION_CrudePrev":17.2,
+    "OBESITY_CrudePrev":22.3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.482765,41.56487285 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"New Seabury",
+    "PlaceFIPS":2545500,
+    "TotalPopulation":717,
+    "CSMOKING_CrudePrev":9.3,
+    "DEPRESSION_CrudePrev":17.1,
+    "OBESITY_CrudePrev":23.9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.02187618,42.24934568 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Quincy",
+    "PlaceFIPS":2555745,
+    "TotalPopulation":92271,
+    "CSMOKING_CrudePrev":12.9,
+    "DEPRESSION_CrudePrev":17.1,
+    "OBESITY_CrudePrev":23.2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.80776,41.67263936 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Mattapoisett Center",
+    "PlaceFIPS":2539485,
+    "TotalPopulation":2915,
+    "CSMOKING_CrudePrev":11.1,
+    "DEPRESSION_CrudePrev":17.1,
+    "OBESITY_CrudePrev":22.3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.08455894,42.24102021 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Milton",
+    "PlaceFIPS":2541725,
+    "TotalPopulation":27003,
+    "CSMOKING_CrudePrev":9.5,
+    "DEPRESSION_CrudePrev":17,
+    "OBESITY_CrudePrev":24.1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.18351214,42.11739803 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Sharon",
+    "PlaceFIPS":2560820,
+    "TotalPopulation":5658,
+    "CSMOKING_CrudePrev":8.8,
+    "DEPRESSION_CrudePrev":17,
+    "OBESITY_CrudePrev":23.2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.62500995,41.6392225 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"North Falmouth",
+    "PlaceFIPS":2547730,
+    "TotalPopulation":3084,
+    "CSMOKING_CrudePrev":8.6,
+    "DEPRESSION_CrudePrev":17,
+    "OBESITY_CrudePrev":22.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.28543013,42.30434407 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Wellesley",
+    "PlaceFIPS":2574210,
+    "TotalPopulation":27982,
+    "CSMOKING_CrudePrev":7.6,
+    "DEPRESSION_CrudePrev":17,
+    "OBESITY_CrudePrev":20.9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.76512494,42.21212905 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"North Scituate",
+    "PlaceFIPS":2549165,
+    "TotalPopulation":5077,
+    "CSMOKING_CrudePrev":9.6,
+    "DEPRESSION_CrudePrev":16.9,
+    "OBESITY_CrudePrev":22.1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.14077914,42.3242838 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Brookline",
+    "PlaceFIPS":2509210,
+    "TotalPopulation":58732,
+    "CSMOKING_CrudePrev":7.6,
+    "DEPRESSION_CrudePrev":16.9,
+    "OBESITY_CrudePrev":20.8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.52282346,42.22357668 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Hopkinton",
+    "PlaceFIPS":2531050,
+    "TotalPopulation":2550,
+    "CSMOKING_CrudePrev":7.7,
+    "DEPRESSION_CrudePrev":16.9,
+    "OBESITY_CrudePrev":19.9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.95684798,41.67951993 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Chatham",
+    "PlaceFIPS":2512960,
+    "TotalPopulation":1421,
+    "CSMOKING_CrudePrev":9.2,
+    "DEPRESSION_CrudePrev":16.8,
+    "OBESITY_CrudePrev":23.7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.16390797,42.41866143 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Arlington",
+    "PlaceFIPS":2501640,
+    "TotalPopulation":42844,
+    "CSMOKING_CrudePrev":8.1,
+    "DEPRESSION_CrudePrev":16.8,
+    "OBESITY_CrudePrev":20.1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.05396091,42.17784705 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Randolph Town",
+    "PlaceFIPS":2556000,
+    "TotalPopulation":32112,
+    "CSMOKING_CrudePrev":14.1,
+    "DEPRESSION_CrudePrev":16.7,
+    "OBESITY_CrudePrev":28.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.8879831,42.23651588 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Hingham",
+    "PlaceFIPS":2530175,
+    "TotalPopulation":5650,
+    "CSMOKING_CrudePrev":9.2,
+    "DEPRESSION_CrudePrev":16.7,
+    "OBESITY_CrudePrev":21.7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.20268287,42.50215344 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Burlington",
+    "PlaceFIPS":2509875,
+    "TotalPopulation":24498,
+    "CSMOKING_CrudePrev":9.3,
+    "DEPRESSION_CrudePrev":16.6,
+    "OBESITY_CrudePrev":20.2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.59996588,41.88819167 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"The Pinehills",
+    "PlaceFIPS":2569585,
+    "TotalPopulation":955,
+    "CSMOKING_CrudePrev":9.8,
+    "DEPRESSION_CrudePrev":16.5,
+    "OBESITY_CrudePrev":22.9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.20842576,42.33160123 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Newton",
+    "PlaceFIPS":2545560,
+    "TotalPopulation":85146,
+    "CSMOKING_CrudePrev":7,
+    "DEPRESSION_CrudePrev":16.5,
+    "OBESITY_CrudePrev":18.7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.28545754,42.35874887 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Lenox",
+    "PlaceFIPS":2534935,
+    "TotalPopulation":1675,
+    "CSMOKING_CrudePrev":9.3,
+    "DEPRESSION_CrudePrev":16.4,
+    "OBESITY_CrudePrev":20.2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.17949103,42.39598978 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Belmont",
+    "PlaceFIPS":2505105,
+    "TotalPopulation":24729,
+    "CSMOKING_CrudePrev":7.5,
+    "DEPRESSION_CrudePrev":16.4,
+    "OBESITY_CrudePrev":19.6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.27416772,42.24744324 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Dover",
+    "PlaceFIPS":2517370,
+    "TotalPopulation":2265,
+    "CSMOKING_CrudePrev":7.3,
+    "DEPRESSION_CrudePrev":16.3,
+    "OBESITY_CrudePrev":22.4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.46078711,41.57619552 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Popponesset",
+    "PlaceFIPS":2555070,
+    "TotalPopulation":220,
+    "CSMOKING_CrudePrev":8.6,
+    "DEPRESSION_CrudePrev":16.2,
+    "OBESITY_CrudePrev":22.8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.7036625,42.0214281 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"South Duxbury",
+    "PlaceFIPS":2563690,
+    "TotalPopulation":3360,
+    "CSMOKING_CrudePrev":7.9,
+    "DEPRESSION_CrudePrev":16.2,
+    "OBESITY_CrudePrev":21.2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.24107729,42.28137149 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Needham",
+    "PlaceFIPS":2544140,
+    "TotalPopulation":28886,
+    "CSMOKING_CrudePrev":7.8,
+    "DEPRESSION_CrudePrev":16.1,
+    "OBESITY_CrudePrev":22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.68215737,42.04297735 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Duxbury",
+    "PlaceFIPS":2517860,
+    "TotalPopulation":1802,
+    "CSMOKING_CrudePrev":8.5,
+    "DEPRESSION_CrudePrev":16.1,
+    "OBESITY_CrudePrev":21.6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.14630602,42.45178935 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Winchester",
+    "PlaceFIPS":2580545,
+    "TotalPopulation":21374,
+    "CSMOKING_CrudePrev":7,
+    "DEPRESSION_CrudePrev":15.8,
+    "OBESITY_CrudePrev":19.3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.35766168,42.32899935 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Cochituate",
+    "PlaceFIPS":2514570,
+    "TotalPopulation":6569,
+    "CSMOKING_CrudePrev":7.3,
+    "DEPRESSION_CrudePrev":15.8,
+    "OBESITY_CrudePrev":19.2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.403245,42.45510363 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"West Concord",
+    "PlaceFIPS":2575680,
+    "TotalPopulation":6028,
+    "CSMOKING_CrudePrev":8.8,
+    "DEPRESSION_CrudePrev":15.4,
+    "OBESITY_CrudePrev":21.2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.6191505,42.53573127 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Devens",
+    "PlaceFIPS":2516840,
+    "TotalPopulation":1840,
+    "CSMOKING_CrudePrev":10,
+    "DEPRESSION_CrudePrev":14.8,
+    "OBESITY_CrudePrev":25.1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.23070648,42.44563028 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Lexington",
+    "PlaceFIPS":2535250,
+    "TotalPopulation":31394,
+    "CSMOKING_CrudePrev":5.9,
+    "DEPRESSION_CrudePrev":14.3,
+    "OBESITY_CrudePrev":17.9
+    }
+  }
+]
+}

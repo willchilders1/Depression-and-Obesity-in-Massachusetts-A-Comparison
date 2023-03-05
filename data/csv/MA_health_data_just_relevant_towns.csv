@@ -1,0 +1,6 @@
+StateAbbr,StateDesc,PlaceName,PlaceFIPS,TotalPopulation,CSMOKING_CrudePrev,DEPRESSION_CrudePrev,OBESITY_CrudePrev,Longitude,Latitude
+MA,Massachusetts,Amherst Center,2501360,19065,11.9,25.6,19.9,-72.51884558,42.375687
+MA,Massachusetts,Fall River,2523000,88857,21.6,24.2,29.2,-71.10257763,41.72762402
+MA,Massachusetts,Springfield,2567000,153060,19.4,21.3,36,-72.53952002,42.11550322
+MA,Massachusetts,Newton,2545560,85146,7,16.5,18.7,-71.20842576,42.33160123
+MA,Massachusetts,Dover,2517370,2265,7.3,16.3,22.4,-71.27416772,42.24744324
