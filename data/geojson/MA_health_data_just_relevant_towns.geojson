@@ -1,0 +1,90 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.51884558,42.375687 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Amherst Center",
+    "PlaceFIPS":2501360,
+    "TotalPopulation":19065,
+    "CSMOKING_CrudePrev":11.9,
+    "DEPRESSION_CrudePrev":25.6,
+    "OBESITY_CrudePrev":19.9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.10257763,41.72762402 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Fall River",
+    "PlaceFIPS":2523000,
+    "TotalPopulation":88857,
+    "CSMOKING_CrudePrev":21.6,
+    "DEPRESSION_CrudePrev":24.2,
+    "OBESITY_CrudePrev":29.2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.53952002,42.11550322 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Springfield",
+    "PlaceFIPS":2567000,
+    "TotalPopulation":153060,
+    "CSMOKING_CrudePrev":19.4,
+    "DEPRESSION_CrudePrev":21.3,
+    "OBESITY_CrudePrev":36
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.20842576,42.33160123 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Newton",
+    "PlaceFIPS":2545560,
+    "TotalPopulation":85146,
+    "CSMOKING_CrudePrev":7,
+    "DEPRESSION_CrudePrev":16.5,
+    "OBESITY_CrudePrev":18.7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.27416772,42.24744324 ]
+    },
+    "properties": {
+    "StateAbbr":"MA",
+    "StateDesc":"Massachusetts",
+    "PlaceName":"Dover",
+    "PlaceFIPS":2517370,
+    "TotalPopulation":2265,
+    "CSMOKING_CrudePrev":7.3,
+    "DEPRESSION_CrudePrev":16.3,
+    "OBESITY_CrudePrev":22.4
+    }
+  }
+]
+}
