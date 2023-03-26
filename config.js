@@ -16,34 +16,33 @@ var config = {
     footer: 'Sources: <a href="https://commons.wikimedia.org/wiki/File:Newton_City_Hall,_Massachusetts.jpg">Kenneth C. Zirkel</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons, <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
         {
-            id: 'slug-style-id',
-            alignment: 'left',
+            id: 'mass-obesity',
+            alignment: 'right',
             hidden: false,
-            title: 'Depression in Amherst',
-            image: 'https://upload.wikimedia.org/wikipedia/commons/b/b0/Town_Hall%2C_Amherst_MA.jpg',
-            description: 'Population: 19,065. This will talk about the prevalence of depression on college campuses',
+            title: 'Obesity in Massachusetts',
+            image:'',
+            description: '',
             location: {
-                center: [-72.51884558, 42.375687],
-                zoom: 11,
-                pitch: 60,
-                bearing: 0
+                center: [-71.925258, 42.377117],
+                zoom: 8,
+                pitch: 20,
+                bearing: 0,
+                // flyTo additional controls-
+                // These options control the flight curve, making it move
+                // slowly and zoom out almost completely before starting
+                // to pan.
+                //speed: 2, // make the flying slow
+                //curve: 1, // change the speed at which it zooms out
             },
             mapAnimation: 'flyTo',
-            rotateAnimation: false,
+            rotateAnimation: true,
             callback: '',
-            onChapterEnter: [
-                // {
-                //     layer: 'layer-name',
-                //     opacity: 1,
-                //     duration: 5000
-                // }
-            ],
-            onChapterExit: [
-                // {
-                //     layer: 'layer-name',
-                //     opacity: 0
-                // }
-            ]
+            onChapterEnter: [                {
+                layer: 'smoking',
+                opacity: 1,
+                duration: 500
+            }],
+            onChapterExit: []
         },
         {
             id: 'second-identifier',
@@ -74,6 +73,37 @@ var config = {
             }],
             onChapterExit: []
         },
+        {
+            id: 'slug-style-id',
+            alignment: 'left',
+            hidden: false,
+            title: 'Depression in Amherst',
+            image: 'https://upload.wikimedia.org/wikipedia/commons/b/b0/Town_Hall%2C_Amherst_MA.jpg',
+            description: 'Population: 19,065. This will talk about the prevalence of depression on college campuses',
+            location: {
+                center: [-72.51884558, 42.375687],
+                zoom: 11,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 1,
+                //     duration: 5000
+                // }
+            ],
+            onChapterExit: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 0
+                // }
+            ]
+        },
+
         {
             id: 'third-identifier',
             alignment: 'left',
@@ -124,6 +154,24 @@ var config = {
                 zoom: 12,
                 pitch: 40,
                 bearing: 40
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'Sources and Citations',
+            alignment: 'fully',
+            hidden: false,
+            title: 'Sources',
+            description: '',
+            location: {
+                center: [-71.925258, 42.377117],
+                zoom: 8,
+                pitch: 20,
+                bearing: 0
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
