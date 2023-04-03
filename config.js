@@ -11,7 +11,7 @@ var config = {
     use3dTerrain: false, //set true for enabling 3D maps.
     auto: false,
     title: 'The Title Text of this Story',
-    subtitle: 'A descriptive and interesting subtitle to draw in the reader',
+    subtitle: 'Income is almost always a driving factor in rates of both obesity and depression. Even in Massachusetts, a ',
     byline: 'By a Digital Storyteller',
     footer: 'Sources: <a href="https://commons.wikimedia.org/wiki/File:Newton_City_Hall,_Massachusetts.jpg">Kenneth C. Zirkel</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons, <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
@@ -19,9 +19,9 @@ var config = {
             id: 'mass-obesity',
             alignment: 'right',
             hidden: false,
-            title: 'Obesity in Massachusetts',
+            title: 'Massachusetts Income Disparity',
+            description: 'Income is almost always a driving factor in rates of both obesity and depression. Even in Massachusetts, a ',
             image:'',
-            description: '',
             location: {
                 center: [-71.925258, 42.377117],
                 zoom: 8,
@@ -45,10 +45,48 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'second-identifier',
+            id: 'fourth-chapter',
+            alignment: 'fully',
+            hidden: false,
+            title: 'Massachusetts Depression',
+            image: '',
+            description: '',
+            location: {
+                center: [-71.925258, 42.377117],
+                zoom: 8,
+                pitch: 20,
+                bearing: 0,
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'fourth-chapter',
+            alignment: 'fully',
+            hidden: false,
+            title: 'Massachusetts Obesity',
+            image: '',
+            description: '',
+            location: {
+                center: [-71.925258, 42.377117],
+                zoom: 8,
+                pitch: 20,
+                bearing: 0,
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'Springfield Income',
             alignment: 'right',
             hidden: false,
-            title: 'Springfield',
+            title: 'Springfield Income',
             image: 'https://upload.wikimedia.org/wikipedia/commons/0/0d/City_Hall_-_Springfield%2C_MA_-_DSC03296.JPG',
             description: 'Population: 153,060. This will talk about the high prevalence of both depression and smoking in Western Massachusetts',
             location: {
@@ -67,7 +105,7 @@ var config = {
             rotateAnimation: true,
             callback: '',
             onChapterEnter: [                {
-                layer: 'smoking',
+                layer: 'ma-merged-places-9z82zp',
                 opacity: 1,
                 duration: 5000
             }],
@@ -77,11 +115,41 @@ var config = {
             id: 'slug-style-id',
             alignment: 'left',
             hidden: false,
-            title: 'Depression in Amherst',
+            title: 'Depression in Springfield',
             image: 'https://upload.wikimedia.org/wikipedia/commons/b/b0/Town_Hall%2C_Amherst_MA.jpg',
             description: 'Population: 19,065. This will talk about the prevalence of depression on college campuses',
             location: {
-                center: [-72.51884558, 42.375687],
+                center: [-72.53952002, 42.11550322],
+                zoom: 11,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 1,
+                //     duration: 5000
+                // }
+            ],
+            onChapterExit: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 0
+                // }
+            ]
+        },
+        {
+            id: 'slug-style-id',
+            alignment: 'left',
+            hidden: false,
+            title: 'Obesity in Springfield',
+            image: '',
+            description: '',
+            location: {
+                center: [-72.53952002, 42.11550322],
                 zoom: 11,
                 pitch: 60,
                 bearing: 0
@@ -106,61 +174,308 @@ var config = {
 
         {
             id: 'third-identifier',
-            alignment: 'left',
+            alignment: 'right',
             hidden: false,
-            title: 'Newton/Boston Suburbs',
-            image: 'https://upload.wikimedia.org/wikipedia/commons/e/e6/Newton_City_Hall%2C_Massachusetts.jpg',
-            description: 'Population:85,146',
+            title: 'Newton Income',
+            image: '',
+            description: '',
             location: {
                 center: [-71.20842576, 42.33160123],
                 zoom: 10,
-                pitch: 8.01,
-                bearing: 10
+                pitch: 60,
+                bearing: 40
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
             callback: '',
-            onChapterEnter: [],
-            onChapterExit: []
+            onChapterEnter: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 1,
+                //     duration: 5000
+                // }
+            ],
+            onChapterExit: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 0
+                // }
+            ]
+            
         },
         {
             id: 'fourth-identifier',
-            alignment: 'left',
+            alignment: 'right',
             hidden: false,
-            title: 'Fall River',
+            title: 'Newton Depression',
             image: '',
             description: '',
             location: {
-                center: [-71.10257763, 41.72762402],
-                zoom: 9,
+                center: [-71.20842576, 42.33160123],
+                zoom: 11,
                 pitch: 60,
                 bearing: 10
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
             callback: '',
-            onChapterEnter: [],
-            onChapterExit: []
+            onChapterEnter: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 1,
+                //     duration: 5000
+                // }
+            ],
+            onChapterExit: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 0
+                // }
+            ]
         },
         {
-            id: 'fourth-chapter',
-            alignment: 'fully',
+            id: 'fourth-identifier',
+            alignment: 'left',
             hidden: false,
-            title: 'Dover',
-            image: './path/to/image/source.png',
-            description: 'Population: 2,265',
+            title: 'Newton Obesity',
+            image: '',
+            description: '',
             location: {
-                center: [-71.27416772, 42.24744324],
-                zoom: 12,
-                pitch: 40,
-                bearing: 40
+                center: [-71.20842576, 42.33160123],
+                zoom: 10,
+                pitch: 60,
+                bearing: 10
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
             callback: '',
-            onChapterEnter: [],
-            onChapterExit: []
+            onChapterEnter: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 1,
+                //     duration: 5000
+                // }
+            ],
+            onChapterExit: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 0
+                // }
+            ]
         },
+   
+        {
+            id: 'fifth-identifier',
+            alignment: 'left',
+            hidden: false,
+            title: 'Boston Income',
+            image: '',
+            description: '',
+            location: {
+                center: [-71.057083, 42.361145],
+                zoom: 13,
+                pitch: 60,
+                bearing: -20
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 1,
+                //     duration: 5000
+                // }
+            ],
+            onChapterExit: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 0
+                // }
+            ]
+        },
+        {
+            id: 'sixth-identifier',
+            alignment: 'left',
+            hidden: false,
+            title: 'Boston Obesity',
+            image: '',
+            description: '',
+            location: {
+                center: [-71.057083, 42.361145],
+                zoom: 13,
+                pitch: 60,
+                bearing: -20
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 1,
+                //     duration: 5000
+                // }
+            ],
+            onChapterExit: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 0
+                // }
+            ]
+        },
+        {
+            id: 'seventh-identifier',
+            alignment: 'left',
+            hidden: false,
+            title: 'Boston Depression',
+            image: '',
+            description: '',
+            location: {
+                center: [-71.057083, 42.361145],
+                zoom: 13,
+                pitch: 60,
+                bearing: -20
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 1,
+                //     duration: 5000
+                // }
+            ],
+            onChapterExit: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 0
+                // }
+            ]
+        },
+        {
+            id: 'eighth-identifier',
+            alignment: 'left',
+            hidden: false,
+            title: 'South of Boston Obesity',
+            image: '',
+            description: '',
+            location: {
+                center: [-71.072105, 42.302708],
+                zoom: 12,
+                pitch: 60,
+                bearing: 10
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 1,
+                //     duration: 5000
+                // }
+            ],
+            onChapterExit: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 0
+                // }
+            ]
+        },
+        {
+            id: 'ninth-identifier',
+            alignment: 'left',
+            hidden: false,
+            title: 'South of boston Depression',
+            image: '',
+            description: '',
+            location: {
+                center: [-71.072105, 42.302708],
+                zoom: 12,
+                pitch: 60,
+                bearing: 10
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 1,
+                //     duration: 5000
+                // }
+            ],
+            onChapterExit: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 0
+                // }
+            ]
+        },
+        {
+            id: 'tenth-identifier',
+            alignment: 'left',
+            hidden: false,
+            title: 'South Boston Obesity',
+            image: '',
+            description: '',
+            location: {
+                center: [-71.072105, 42.302708],
+                zoom: 12,
+                pitch: 60,
+                bearing: 10
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 1,
+                //     duration: 5000
+                // }
+            ],
+            onChapterExit: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 0
+                // }
+            ]
+        },
+        {
+            id: 'eleventh-identifier',
+            alignment: 'left',
+            hidden: false,
+            title: 'Conclusion',
+            image: '',
+            description: '',
+            location: {
+                center: [-71.925258, 42.377117],
+                zoom: 8,
+                pitch: 20,
+                bearing: 10
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 1,
+                //     duration: 5000
+                // }
+            ],
+            onChapterExit: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 0
+                // }
+            ]
+        },
+        
+
         {
             id: 'Sources and Citations',
             alignment: 'fully',
@@ -176,8 +491,19 @@ var config = {
             mapAnimation: 'flyTo',
             rotateAnimation: false,
             callback: '',
-            onChapterEnter: [],
-            onChapterExit: []
-        }
+            onChapterEnter: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 1,
+                //     duration: 5000
+                // }
+            ],
+            onChapterExit: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 0
+                // }
+            ]
+        },
     ]
 };
