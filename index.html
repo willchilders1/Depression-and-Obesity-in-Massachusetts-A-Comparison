@@ -138,7 +138,7 @@
   <body>
     <div id="map"></div>
     <div id="story"></div>
-    <div id='legend' style='display:none;'>
+    <!-- <div id='legend' style='display:none;'>
         <nav class='legend clearfix'>
           <span style='background:#e7ff70;'></span>
           <span style='background:#a1c200;'></span>
@@ -151,7 +151,7 @@
           <label>24%</label>
           <label>28%</label>
           <small>Source: <a href="#link to source">Name of source</a></small>
-      </div>
+      </div> -->
     <script src="config.js"></script>
     <script>
 
@@ -285,7 +285,7 @@
           url: url + suffix,
         };
       };
-      L.mapbox.accessToken = 'pk.eyJ1Ijoid2lsbGNoaWxkZXJzMSIsImEiOiJjbGVvdWR3cGkwMmljM3JwNGt6NTY5eGQxIn0.hp7TC4XE9jylFxvvBn4YVA';
+      // L.mapbox.accessToken = 'pk.eyJ1Ijoid2lsbGNoaWxkZXJzMSIsImEiOiJjbGVvdWR3cGkwMmljM3JwNGt6NTY5eGQxIn0.hp7TC4XE9jylFxvvBn4YVA';
       var map = new mapboxgl.Map({
         container: "map",
         style: config.style,
@@ -297,7 +297,7 @@
         transformRequest: transformRequest,
         
       });
-      map.legendControl.addLegend(document.getElementById("legend").innerHTML);
+      // map.legendControl.addLegend(document.getElementById("legend").innerHTML);
       if (config.showMarkers) {
         var marker = new mapboxgl.Marker({ color: config.markerColor });
         marker.setLngLat(config.chapters[0].location.center).addTo(map);
