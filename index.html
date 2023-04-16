@@ -164,24 +164,31 @@
   <div id="map"></div>
   <div id="story"></div>
 
-  <div id='temps-legend' class='legend'>
-    <h4>Mean Air Temperature (Degrees Celsius)</h4>
-    <div><span style='background-color: #ECDE99'></span>32.35 - 34.06</div>
-    <div><span style='background-color: #EBBD2C'></span>34.06 - 34.61</div>
-    <div><span style='background-color: #DA982C'></span>34.61 - 35.03</div>
-    <div><span style='background-color: #C17025'></span>35.03 - 35.45</div>
-    <div><span style='background-color: #631208'></span>35.45 - 36.51</div>
+  <div id='obesity-legend' class='legend'>
+    <h4>Average Percentage of BMI </h4>
+    <div><span style='background-color: #f8f5f1'></span>Low - 12-20%</div>
+    <div><span style='background-color: #EBC5A5'></span></div>
+    <div><span style='background-color: #E6A07A'></span>Medium - 28-37%</div>
+    <div><span style='background-color: #C98C75'></span></div>
+    <div><span style='background-color: #8B7A89'></span>High - 45%+</div>
   </div>
 
-  <div id='heat-legend' class='legend'>
-    <h4>Heat Sensitivity Exposure Index</h4>
-    <div><span style='background-color: #f8f5f1'></span>Low</div>
-    <div><span style='background-color: #EBC5A5'></span></div>
-    <div><span style='background-color: #F0BA91'></span></div>
-    <div><span style='background-color: #E6A07A'></span>Medium</div>
-    <div><span style='background-color: #C98C75'></span></div>
-    <div><span style='background-color: #A47A7B'></span></div>
-    <div><span style='background-color: #8B7A89'></span>High</div>
+  <div id='income-legend' class='legend'>
+    <h4>Median Income Level Per Capita</h4>
+    <div><span style='background-color: #dbdfff'></span>Low - $3,500-$41,000</div>
+    <div><span style='background-color: #928dfc'></span></div>
+    <div><span style='background-color: #1f13fb'></span>Medium - $78,000-$116,000</div>
+    <div><span style='background-color: #0b039b'></span></div>
+    <div><span style='background-color: #040146'></span>High - $153,000+</div>
+  </div>
+
+  <div id='depression-legend' class='legend'>
+    <h4>Average Percentage of Depressed Individuals</h4>
+    <div><span style='background-color: #fefcb9'></span>Low 10-13%</div>
+    <div><span style='background-color: #e3fd5d'></span>13-18%</div>
+    <div><span style='background-color: #728901'></span>Medium - 18-22%</div>
+    <div><span style='background-color: #657902'></span>22-28%</div>
+    <div><span style='background-color: #364701'></span>High 28%+</div>
   </div>
   <script src="config.js"></script>
   <script>
@@ -316,7 +323,6 @@
         url: url + suffix,
       };
     };
-    // L.mapbox.accessToken = 'pk.eyJ1Ijoid2lsbGNoaWxkZXJzMSIsImEiOiJjbGVvdWR3cGkwMmljM3JwNGt6NTY5eGQxIn0.hp7TC4XE9jylFxvvBn4YVA';
     var map = new mapboxgl.Map({
       container: "map",
       style: config.style,
@@ -328,7 +334,6 @@
       transformRequest: transformRequest,
 
     });
-    // map.legendControl.addLegend(document.getElementById("legend").innerHTML);
     if (config.showMarkers) {
       var marker = new mapboxgl.Marker({ color: config.markerColor });
       marker.setLngLat(config.chapters[0].location.center).addTo(map);
@@ -397,14 +402,33 @@
 
           var chapterid = chapter.id;
 
-          if (chapterid == "chapter-0") {
+          if (chapterid == "intro" || chapterid == "chapter-15") {
             $(".legend").hide();
           }
 
-          if (chapterid == "chapter-1") {
+          if (chapterid == "chapter-00" || chapterid == "chapter-3" || chapterid == "chapter-6" || chapterid == "chapter-9" || chapterid == "chapter-12") {
             $(".legend").hide();
-            $("#heat-legend").show();
+            $("#income-legend").show();
           }
+          /* else {
+            $(".legend").hide();
+          } */
+
+          if (chapterid == "chapter-2" || chapterid == "chapter-5" || chapterid == "chapter-8" || chapterid == "chapter-11" || chapterid == "chapter-14") {
+            $(".legend").hide();
+            $("#obesity-legend").show();
+          }
+          /* else {
+            $(".legend").hide();
+          } */
+
+          if (chapterid == "chapter-1" || chapterid == "chapter-4" || chapterid == "chapter-7" || chapterid == "chapter-10" || chapterid == "chapter-13") {
+            $(".legend").hide();
+            $("#depression-legend").show();
+          }
+          /* else {
+            $(".legend").hide();
+          } */
 
         })
         .onStepExit((response) => {
