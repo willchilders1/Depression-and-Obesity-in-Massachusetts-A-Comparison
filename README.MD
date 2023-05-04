@@ -7,3 +7,9 @@ While this data would eventually be parsed, it was originally a smattering of he
 Sources: https://www.wbur.org/news/2022/08/08/2022-kids-count-survey-massachusetts-ranks-first-anxiety-rises
 https://quotewizard.com/news/seasonal-depression
 
+Mapbox Studio was the tool used to develop the maps themselves shown on the webmap. To create these maps I used the data collected from the CDC for Obesity, Depression, and Income levels by tract. Because Massachusetts has very few counties grouping these factors by county was sufficient to make clear inferences. These maps form the front end of the webmap, with the mapbox storytelling template making up the back end.
+![obesity map](https://user-images.githubusercontent.com/63604107/236213387-b48d5281-21e5-44fd-a5f3-b794b4da5164.jpg)
+![income map](https://user-images.githubusercontent.com/63604107/236213398-9717bad8-1558-4f81-8dbb-209b20fe8dd2.jpg)
+![depresiion map](https://user-images.githubusercontent.com/63604107/236213410-91c2319b-2ad2-4eaa-a947-26c946ebb0c6.jpg)
+These maps are populated by the crude prevalence of each factor (depression, obesityt, income) so as to show the base level as reported to health and economic authorities.
+
