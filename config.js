@@ -14,12 +14,12 @@ var config = {
   title: "An obs",
   subtitle:
     "Income is almost always a driving factor in rates of both obesity and depression. Even in Massachusetts, a ",
-  byline: "By a Digital Storyteller",
+  byline: "By Will Childers",
   footer:
-    'Sources: <br> <a href="https://commons.wikimedia.org/wiki/File:Newton_City_Hall,_Massachusetts.jpg">Kenneth C. Zirkel</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons, <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template. <br> <a href="https://chronicdata.cdc.gov/500-Cities-Places/PLACES-Place-Data-GIS-Friendly-Format-2022-release/vgc8-iyc4">CDC Place Data</a>     <br> <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4939441/">The Relationship between Childhood Obesity, Low Socioeconomic Status, and Race/Ethnicity: Lessons from Massachusetts</a> <br> <a href="https://www.cdc.gov/nccdphp/dch/programs/communitiesputtingpreventiontowork/communities/profiles/both-ma_boston.htm">CDC - Community Profile - Boston, MA - Communities Putting Prevention to Work</a> <br> <a href="https://www.newtonma.gov/government/health-human-services/social-services/food-resources">Newton Freedge</a> <br> <a href="https://www.baystatebanner.com/2011/11/16/a-question-of-access/">A question of access - The Bay State Banner</a> <br> <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6195011/">Identifying Stress Landscapes in Boston Neighborhoods</a> <br> <a href="https://www.hsph.harvard.edu/news/features/asthma-obesity-boston-communities/">Tackling the asthma-obesity link in Boston | News | Harvard T.H. Chan School of Public Health</a> <br> <a href="https://www.wbur.org/news/2022/08/08/2022-kids-count-survey-massachusetts-ranks-first-anxiety-rises">Massachusetts kids overall well-being is trending up. So are anxiety and depression rates</a> <br> <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5775138/">Income inequality and depression: a systematic review and meta‐analysis of the association and a scoping review of mechanisms</a> <br> <a href="https://www.wgbh.org/news/2017/08/31/local-news/massachusetts-obesity-rates-among-nations-lowest">Massachusetts Obesity Rates Among Nations Lowest</a>     <br> <a href="https://www.masslive.com/springfield/2022/10/square-one-receives-993k-grant-to-provide-locally-grown-food-to-children-and-families.html">Locally Grown food Grant for Springfield, MA</a> <br> <a href="https://valleyadvocate.com/2015/11/09/food-deserts-of-springfield/">Food Deserts of Springfield</a>',
+    'Sources: <br> <a href="https://commons.wikimedia.org/wiki/File:Newton_City_Hall,_Massachusetts.jpg">Kenneth C. Zirkel</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons, <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template. <br> <a href="https://chronicdata.cdc.gov/500-Cities-Places/PLACES-Place-Data-GIS-Friendly-Format-2022-release/vgc8-iyc4">CDC Place Data</a>     <br> <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4939441/">The Relationship between Childhood Obesity, Low Socioeconomic Status, and Race/Ethnicity: Lessons from Massachusetts</a> <br> <a href="https://www.cdc.gov/nccdphp/dch/programs/communitiesputtingpreventiontowork/communities/profiles/both-ma_boston.htm">CDC - Community Profile - Boston, MA - Communities Putting Prevention to Work</a> <br> <a href="https://www.newtonma.gov/government/health-human-services/social-services/food-resources">Newton Freedge</a> <br> <a href="https://www.baystatebanner.com/2011/11/16/a-question-of-access/">A question of access - The Bay State Banner</a> <br> <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6195011/">Identifying Stress Landscapes in Boston Neighborhoods</a> <br> <a href="https://www.hsph.harvard.edu/news/features/asthma-obesity-boston-communities/">Tackling the asthma-obesity link in Boston | News | Harvard T.H. Chan School of Public Health</a> <br> <a href="https://www.wbur.org/news/2022/08/08/2022-kids-count-survey-massachusetts-ranks-first-anxiety-rises">Massachusetts kids overall well-being is trending up. So are anxiety and depression rates</a> <br> <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5775138/">Income inequality and depression: a systematic review and meta‐analysis of the association and a scoping review of mechanisms</a> <br> <a href="https://www.wgbh.org/news/2017/08/31/local-news/massachusetts-obesity-rates-among-nations-lowest">Massachusetts Obesity Rates Among Nations Lowest</a>     <br> <a href="https://www.masslive.com/springfield/2022/10/square-one-receives-993k-grant-to-provide-locally-grown-food-to-children-and-families.html">Locally Grown food Grant for Springfield, MA</a> <br> <a href="https://valleyadvocate.com/2015/11/09/food-deserts-of-springfield/">Food Deserts of Springfield</a> <br> <a href="https://ceufast.com/blog/the-us-cities-with-the-highest-prevalence-of-depression"></a>',
 
     // <br> <a href=""></a>
-
+    
   chapters: [
     {
       id: "intro",
@@ -189,7 +189,7 @@ var config = {
       hidden: false,
       title: "Depression in Springfield",
       image: "",
-      description: "",
+      description: "While Springfield ranks on the higher end of the state demographics with regards to depression, it is not the most depressed area in the state. The city reported 24% of Springfield’s residents suffered from depression in 2022. Though much higher than the national average it is relatively lower than areas like Amherst, a similar environment in western Massachusetts. Median income is still higher than more rural areas in the state; the area is thus able to afford some of the things that make life inherently easier, access to emergency services and easier transportation among them. Though not as affected as smaller areas in the western part of the state, Springfield still found its way into the most top twenty depressed cities in the United States at number sixteen. The aforementioned obesity and particularly income levels have both been cited as driving factors in this statistic, and there has been little improvement in the 2020s.",
       location: {
         center: [-72.53952002, 42.11550322],
         zoom: 11,
@@ -529,11 +529,11 @@ var config = {
     },
     {
       id: "chapter-15",
-      alignment: "left",
+      alignment: "fully",
       hidden: false,
       title: "Conclusion",
       image: "",
-      description: "",
+      description: "Income inequality and the related health issues that arise as a result are ongoing issues across the country. Even within regions the difference in standards of living can be drastically different. Massachusetts, though a small state geographically, exemplifies this economic disparity. As shown above, food deserts and costs-of-living out of whack with income levels can create communities with substantial health issues. Obesity in an important factor in the United States’ leading cause of death-heart disease-and suicide is among the most prevalent causes of death in men. These issues are pervasive and affect nearly everyone in the United States, though they disproportionately affect those without disposable income. Using data from the CDC and the concepts and tools of digital mapping we are able to track these disproportionate areas. Health factor mapping is important to the understanding of not just the demographics of a geographic area, but the holistic understanding of the region through a visual medium.",
       location: {
         center: [-71.925258, 42.377117],
         zoom: 8,
