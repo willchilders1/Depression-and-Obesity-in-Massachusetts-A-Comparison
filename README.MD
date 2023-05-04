@@ -1,6 +1,6 @@
 # Depression and Obesity in Massachusetts: A Comparison
 **Introduction**
-Obesity and depression heavily affect the United States, with 8% of adults suffering from depression and 36% of adults listed as obese. These numbers are staggering, particularly when tracked against their real-world implications. Heart disease is the number one cause of death in the United States, and suicide is top three for death among men. 
+Obesity and depression heavily affect the United States, with 8% of adults suffering from depression and 36% of adults listed as obese. These numbers are staggering, particularly when tracked against their real-world implications. Heart disease is the number one cause of death in the United States, and suicide is top three for death among men. This interactive map was developed out of the need for better visual understanding of how these factors correlate with one another in a specific area, namely the state where I currently reside. 
 
 
 **Data Stack**
@@ -15,8 +15,8 @@ Microsoft Word
 The initial health data was collected using place data from the Centers for Disease Control, specifically using the CDC 'Place Data' https://chronicdata.cdc.gov/500-Cities-Places/PLACES-Place-Data-GIS-Friendly-Format-2022-release/vgc8-iyc4
 Tract level income data was collected using the U.S. Census Bureau https://www.census.gov/topics/income-poverty/income/data/tables.html
 While this data would eventually be parsed, it was originally a smattering of health data from across the entire country. I used QGIS as a data parsing tool, first loading the raw .csv files for both town and county data and editing their tables to only include smoking, depression, and obesity data.![QGIS data example](https://user-images.githubusercontent.com/63604107/222976544-9435f286-e9e7-4541-86e9-a1902ca0fe22.jpg) Following this, the data for both town and county were exported to the geojson format for use in populating the next step: creating visualized data in Mapbox Studio and using Mapbox's storytelling API: https://github.com/mapbox/storytelling/blob/main/README.md
-https://www.wbur.org/news/2022/08/08/2022-kids-count-survey-massachusetts-ranks-first-anxiety-rises
-https://quotewizard.com/news/seasonal-depression
+Research data was primarily collected using the Google search engine and Google Scholar, with some government data gleaned through searching the Census Bureau website. The data used was from myriad sources, from research articles to independent journalistic statistical endeavors
+
 
 
 Mapbox Studio was the tool used to develop the maps themselves shown on the webmap. To create these maps I used the data collected from the CDC for Obesity, Depression, and Income levels by tract. Because Massachusetts has very few counties grouping these factors by county was sufficient to make clear inferences. These maps form the front end of the webmap, with the mapbox storytelling template making up the back end.
@@ -41,17 +41,29 @@ This map was developed into a web browser-based interactive map for use primaril
 
 
 **Sources**
+
 https://chronicdata.cdc.gov/500-Cities-Places/PLACES-Place-Data-GIS-Friendly-Format-2022-release/vgc8-iyc4
+
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4939441/
+
 https://www.cdc.gov/nccdphp/dch/programs/communitiesputtingpreventiontowork/communities/profiles/both-ma_boston.html
+
 https://www.newtonma.gov/government/health-human-services/social-services/food-resources
+
 https://www.baystatebanner.com/2011/11/16/a-question-of-access/
+
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6195011/
+
 https://www.hsph.harvard.edu/news/features/asthma-obesity-boston-communities/
+
 https://www.wbur.org/news/2022/08/08/2022-kids-count-survey-massachusetts-ranks-first-anxiety-rises
+
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5775138/
+
 https://www.wgbh.org/news/2017/08/31/local-news/massachusetts-obesity-rates-among-nations-lowest
+
 https://www.masslive.com/springfield/2022/10/square-one-receives-993k-grant-to-provide-locally-grown-food-to-children-and-families.html
+
 https://valleyadvocate.com/2015/11/09/food-deserts-of-springfield/
 
 
