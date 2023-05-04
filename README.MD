@@ -13,3 +13,5 @@ Mapbox Studio was the tool used to develop the maps themselves shown on the webm
 ![depresiion map](https://user-images.githubusercontent.com/63604107/236213410-91c2319b-2ad2-4eaa-a947-26c946ebb0c6.jpg)
 These maps are populated by the crude prevalence of each factor (depression, obesityt, income) so as to show the base level as reported to health and economic authorities.
 
+The webpage was created using Mapbox Studio's Storytelling template linked above. The template provided both an html template and javascript configuration file, the two main building blocks of the webmap. The configuration file was used to inject the points of interest, with the template providing guidance on creating an interactive, fly-to-locatgion map as the user scrolls.
+C:\Users\Will\Documents\School\NewMapsPlus\Winter 2023\Mapping-Final-Project\config.js
