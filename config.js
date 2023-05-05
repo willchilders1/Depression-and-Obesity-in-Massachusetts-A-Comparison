@@ -2,7 +2,7 @@ var config = {
   style: "mapbox://styles/willchilders1/cleotdexr00m001qxnol5hhbn",
   accessToken:
     "pk.eyJ1Ijoid2lsbGNoaWxkZXJzMSIsImEiOiJjbGVvdWR3cGkwMmljM3JwNGt6NTY5eGQxIn0.hp7TC4XE9jylFxvvBn4YVA",
-  showMarkers: true,
+  showMarkers: false,
   markerColor: "#3FB1CE",
   //projection: 'equirectangular',
   //Read more about available projections here
@@ -11,7 +11,7 @@ var config = {
   theme: "dark",
   use3dTerrain: false, //set true for enabling 3D maps.
   auto: false,
-  title: "An obs",
+  title: "A Comparison of Health Factors and Income Level in Massachusetts Towns",
   subtitle:
     "Income is almost always a driving factor in rates of both obesity and depression. Even in Massachusetts, a ",
   byline: "By Will Childers",
@@ -170,12 +170,22 @@ var config = {
       callback: "",
       onChapterEnter: [
         {
+          layer: "springfield",
+          opacity: 1,
+          duration: 500,
+        },
+        {
           layer: "income",
           opacity: 1,
           duration: 500,
         },
       ],
       onChapterExit: [
+        {
+          layer: "springfield",
+          opacity: 0,
+          duration: 500,
+        },
         {
           layer: "income",
           opacity: 0,
@@ -201,12 +211,22 @@ var config = {
       callback: "",
       onChapterEnter: [
         {
+          layer: "springfield",
+          opacity: 1,
+          duration: 500,
+        },
+        {
           layer: "depression",
           opacity: 1,
           duration: 500,
         },
       ],
       onChapterExit: [
+        {
+          layer: "springfield",
+          opacity: 0,
+          duration: 500,
+        },
         {
           layer: "depression",
           opacity: 0,
@@ -232,12 +252,22 @@ var config = {
       callback: "",
       onChapterEnter: [
         {
+          layer: "springfield",
+          opacity: 1,
+          duration: 500,
+        },
+        {
           layer: "obesity",
           opacity: 1,
           duration: 500,
         },
       ],
       onChapterExit: [
+        {
+          layer: "springfield",
+          opacity: 0,
+          duration: 500,
+        },
         {
           layer: "obesity",
           opacity: 0,
@@ -264,17 +294,29 @@ var config = {
       callback: "",
       onChapterEnter: [
         {
+          layer: "newton",
+          opacity: 1,
+          duration: 500,
+        },
+        {
           layer: "income",
           opacity: 1,
           duration: 500,
         },
+
       ],
       onChapterExit: [
+        {
+          layer: "newton",
+          opacity: 0,
+          duration: 500,
+        },
         {
           layer: "income",
           opacity: 0,
           duration: 500,
         },
+
       ],
     },
     {
@@ -295,12 +337,22 @@ var config = {
       callback: "",
       onChapterEnter: [
         {
+          layer: "newton",
+          opacity: 1,
+          duration: 500,
+        },
+        {
           layer: "depression",
           opacity: 1,
           duration: 500,
         },
       ],
       onChapterExit: [
+        {
+          layer: "newton",
+          opacity: 0,
+          duration: 500,
+        },
         {
           layer: "depression",
           opacity: 0,
@@ -326,12 +378,22 @@ var config = {
       callback: "",
       onChapterEnter: [
         {
+          layer: "newton",
+          opacity: 1,
+          duration: 500,
+        },
+        {
           layer: "obesity",
           opacity: 1,
           duration: 500,
         },
       ],
       onChapterExit: [
+        {
+          layer: "newton",
+          opacity: 0,
+          duration: 500,
+        },
         {
           layer: "obesity",
           opacity: 0,
@@ -358,12 +420,22 @@ var config = {
       callback: "",
       onChapterEnter: [
         {
+          layer: "boston",
+          opacity: 1,
+          duration: 500,
+        },
+        {
           layer: "income",
           opacity: 1,
           duration: 500,
         },
       ],
       onChapterExit: [
+        {
+          layer: "boston",
+          opacity: 0,
+          duration: 500,
+        },
         {
           layer: "income",
           opacity: 0,
@@ -389,12 +461,22 @@ var config = {
       callback: "",
       onChapterEnter: [
         {
+          layer: "boston",
+          opacity: 1,
+          duration: 500,
+        },
+        {
           layer: "depression",
           opacity: 1,
           duration: 500,
         },
       ],
       onChapterExit: [
+        {
+          layer: "boston",
+          opacity: 0,
+          duration: 500,
+        },
         {
           layer: "depression",
           opacity: 0,
@@ -421,12 +503,22 @@ var config = {
       callback: "",
       onChapterEnter: [
         {
+          layer: "boston",
+          opacity: 1,
+          duration: 500,
+        },
+        {
           layer: "obesity",
           opacity: 1,
           duration: 500,
         },
       ],
       onChapterExit: [
+        {
+          layer: "boston",
+          opacity: 0,
+          duration: 500,
+        },
         {
           layer: "obesity",
           opacity: 0,
