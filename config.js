@@ -181,11 +181,11 @@ var config = {
         },
       ],
       onChapterExit: [
-        {
-          layer: "springfield",
-          opacity: 0,
-          duration: 500,
-        },
+        // {
+        //   layer: "springfield",
+        //   opacity: 0,
+        //   duration: 500,
+        // },
         {
           layer: "income",
           opacity: 0,
@@ -210,11 +210,11 @@ var config = {
       rotateAnimation: false,
       callback: "",
       onChapterEnter: [
-        {
-          layer: "springfield",
-          opacity: 1,
-          duration: 500,
-        },
+        // {
+        //   layer: "springfield",
+        //   opacity: 1,
+        //   duration: 500,
+        // },
         {
           layer: "depression",
           opacity: 1,
@@ -222,11 +222,11 @@ var config = {
         },
       ],
       onChapterExit: [
-        {
-          layer: "springfield",
-          opacity: 0,
-          duration: 500,
-        },
+        // {
+        //   layer: "springfield",
+        //   opacity: 0,
+        //   duration: 500,
+        // },
         {
           layer: "depression",
           opacity: 0,
@@ -251,11 +251,11 @@ var config = {
       rotateAnimation: false,
       callback: "",
       onChapterEnter: [
-        {
-          layer: "springfield",
-          opacity: 1,
-          duration: 500,
-        },
+        // {
+        //   layer: "springfield",
+        //   opacity: 1,
+        //   duration: 500,
+        // },
         {
           layer: "obesity",
           opacity: 1,
@@ -306,11 +306,11 @@ var config = {
 
       ],
       onChapterExit: [
-        {
-          layer: "newton",
-          opacity: 0,
-          duration: 500,
-        },
+        // {
+        //   layer: "newton",
+        //   opacity: 0,
+        //   duration: 500,
+        // },
         {
           layer: "income",
           opacity: 0,
@@ -336,11 +336,11 @@ var config = {
       rotateAnimation: false,
       callback: "",
       onChapterEnter: [
-        {
-          layer: "newton",
-          opacity: 1,
-          duration: 500,
-        },
+        // {
+        //   layer: "newton",
+        //   opacity: 1,
+        //   duration: 500,
+        // },
         {
           layer: "depression",
           opacity: 1,
@@ -348,11 +348,11 @@ var config = {
         },
       ],
       onChapterExit: [
-        {
-          layer: "newton",
-          opacity: 0,
-          duration: 500,
-        },
+        // {
+        //   layer: "newton",
+        //   opacity: 0,
+        //   duration: 500,
+        // },
         {
           layer: "depression",
           opacity: 0,
@@ -377,11 +377,11 @@ var config = {
       rotateAnimation: false,
       callback: "",
       onChapterEnter: [
-        {
-          layer: "newton",
-          opacity: 1,
-          duration: 500,
-        },
+        // {
+        //   layer: "newton",
+        //   opacity: 1,
+        //   duration: 500,
+        // },
         {
           layer: "obesity",
           opacity: 1,
@@ -431,11 +431,11 @@ var config = {
         },
       ],
       onChapterExit: [
-        {
-          layer: "boston",
-          opacity: 0,
-          duration: 500,
-        },
+        // {
+        //   layer: "boston",
+        //   opacity: 0,
+        //   duration: 500,
+        // },
         {
           layer: "income",
           opacity: 0,
@@ -460,11 +460,11 @@ var config = {
       rotateAnimation: false,
       callback: "",
       onChapterEnter: [
-        {
-          layer: "boston",
-          opacity: 1,
-          duration: 500,
-        },
+        // {
+        //   layer: "boston",
+        //   opacity: 1,
+        //   duration: 500,
+        // },
         {
           layer: "depression",
           opacity: 1,
@@ -472,11 +472,11 @@ var config = {
         },
       ],
       onChapterExit: [
-        {
-          layer: "boston",
-          opacity: 0,
-          duration: 500,
-        },
+        // {
+        //   layer: "boston",
+        //   opacity: 0,
+        //   duration: 500,
+        // },
         {
           layer: "depression",
           opacity: 0,
@@ -502,11 +502,11 @@ var config = {
       rotateAnimation: false,
       callback: "",
       onChapterEnter: [
-        {
-          layer: "boston",
-          opacity: 1,
-          duration: 500,
-        },
+        // {
+        //   layer: "boston",
+        //   opacity: 1,
+        //   duration: 500,
+        // },
         {
           layer: "obesity",
           opacity: 1,
@@ -543,6 +543,11 @@ var config = {
       rotateAnimation: false,
       callback: "",
       onChapterEnter: [
+        {
+          layer: "dorchester",
+          opacity: 1,
+          duration: 500,
+        },
         {
           layer: "income",
           opacity: 1,
@@ -614,6 +619,11 @@ var config = {
       onChapterExit: [
         {
           layer: "obesity",
+          opacity: 0,
+          duration: 500,
+        },
+        {
+          layer: "dorchester",
           opacity: 0,
           duration: 500,
         },
