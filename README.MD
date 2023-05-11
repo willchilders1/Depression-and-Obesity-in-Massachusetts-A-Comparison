@@ -31,7 +31,7 @@ Mapbox Studio was the tool used to develop the maps themselves shown on the webm
 ![obesity map](https://user-images.githubusercontent.com/63604107/236213387-b48d5281-21e5-44fd-a5f3-b794b4da5164.jpg)
 ![income map](https://user-images.githubusercontent.com/63604107/236213398-9717bad8-1558-4f81-8dbb-209b20fe8dd2.jpg)
 ![depresiion map](https://user-images.githubusercontent.com/63604107/236213410-91c2319b-2ad2-4eaa-a947-26c946ebb0c6.jpg)
-These maps are populated by the crude prevalence of each factor (depression, obesityt, income) so as to show the base level as reported to health and economic authorities. A choropleth layout was used for all three maps as it was the most efficient way to visualize tract-level data for the entire state. This visual representation allows for the user to interpret each layer with reference to the surrounding tracts as well as between the separate layers.
+These maps are populated by the crude prevalence of each factor (depression, obesity, income) so as to show the base level as reported to health and economic authorities. A choropleth layout was used for all three maps as it was the most efficient way to visualize tract-level data for the entire state. This visual representation allows for the user to interpret each layer with reference to the surrounding tracts as well as between the separate layers.
 
 The webpage was created using Mapbox Studio's Storytelling template linked above. The template provided both an html template and javascript configuration file, the two main building blocks of the webmap. The configuration file was used to inject the points of interest, with the template providing guidance on creating an interactive, fly-to-location map as the user scrolls.
 C:\Users\Will\Documents\School\NewMapsPlus\Winter 2023\Mapping-Final-Project\config.js
@@ -52,9 +52,13 @@ Massachusetts is often cited as one of the healthiest states in the country, tho
 
 ## **Sources**
 
+### **Data**
+
 https://chronicdata.cdc.gov/500-Cities-Places/PLACES-Place-Data-GIS-Friendly-Format-2022-release/vgc8-iyc4
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4939441/
+
+### **Research**
 
 https://www.cdc.gov/nccdphp/dch/programs/communitiesputtingpreventiontowork/communities/profiles/both-ma_boston.html
 
