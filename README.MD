@@ -37,7 +37,9 @@ The webpage was created using Mapbox Studio's Storytelling template linked above
 C:\Users\Will\Documents\School\NewMapsPlus\Winter 2023\Mapping-Final-Project\config.js
 For this configuration file to work I developed a different 'coordinate block' for each location in Mapbox Studio, and further divided each up by the data needing to be represented. These were referenced within the configuration file as layers, opacity being turned off and on depending on the map in question. These blocks were paired with descriptions of the data and relevant information for each location.
 
-Research data was primarily collected using the Google search engine and Google Scholar, with some government data gleaned through searching the Census Bureau website. The data used was from myriad sources, from research articles to independent journalistic statistical endeavors.
+Research data was primarily collected using the Google search engine and Google Scholar, with some government data gleaned through searching the Census Bureau website. The data used was from myriad sources, from research articles to independent journalistic statistical endeavors. While the mobile link does work, the amount of textual information completely covers the map. Going forward, this is one of the prime candidates for modification in future development of the project.
+
+Another modification I would make to this project going forward would be adding secondary data to further support the points made by the three base maps. This data could include food banks, grocery stores, and could potentially even show the different elements that make up income disparity rather than using just the median's for each census tract.
 
 
 ## User Experience
