@@ -52,13 +52,13 @@ Massachusetts is often cited as one of the healthiest states in the country, tho
 
 ## **Sources**
 
-#**Data**
+# **Data**
 
 https://chronicdata.cdc.gov/500-Cities-Places/PLACES-Place-Data-GIS-Friendly-Format-2022-release/vgc8-iyc4
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4939441/
 
-#**Research**
+# **Research**
 
 https://www.cdc.gov/nccdphp/dch/programs/communitiesputtingpreventiontowork/communities/profiles/both-ma_boston.html
 
