@@ -1,6 +1,6 @@
 # Depression and Obesity in Massachusetts: A Comparison
 ## **Introduction**
-Obesity and depression heavily affect the United States, with 8% of adults suffering from depression and 36% of adults listed as obese. These numbers are staggering, particularly when tracked against their real-world implications. Heart disease is the number one cause of death in the United States, and suicide is top three for death among men. This interactive map was developed out of the need for better visual understanding of how these factors correlate with one another in a specific area, namely the state where I currently reside. 
+Obesity and depression heavily affect the United States, with 8% of adults suffering from depression and 36% of adults listed as obese. These numbers are staggering, particularly when tracked against their real-world implications. Heart disease is the number one cause of death in the United States, and suicide is top three for death among men. This interactive map was developed out of the need for better visual understanding of how these factors correlate with one another in a specific area, namely the state where I currently reside. Aggregating the data and research that presents these points in a clear way 
 
 
 ## **Data Stack**
@@ -42,7 +42,8 @@ Research data was primarily collected using the Google search engine and Google 
 
 ## User Experience
 
-Income level was referenced as the driving factor behind the health issues presented in the webmap, with source research showing links between depression and income as well as obesity and income. It is meant to be a jumping-off point for learning how health factors are affected by income levels, specifically within a small region. Users will read through the storytelling map to develop an initial understanding of how each of these factors affects the communities in question and how they can be compared to other areas in the same region. This is not meant to be a scientific study and is only an aggregate, pulling first-person research from sources listed below. The National Institute of Health, Center for Disease Control and the U.S. Census Bureau were all integral sources as they provide the most comprehensive source of health and income data. 
+Income level was referenced as the driving factor behind the health issues presented in the webmap, with source research showing links between depression and income as well as obesity and income. It is meant to be a jumping-off point for learning how health factors are affected by income levels, specifically within a small region. Users will read through the storytelling map to develop an initial understanding of how each of these factors affects the communities in question and how they can be compared to other areas in the same region. This is not meant to be a scientific study and is only an aggregate, pulling first-person research from sources listed below. The National Institute of Health, Center for Disease Control and the U.S. Census Bureau were all integral sources as they provide the most comprehensive source of health and income data.
+
 This map was developed into a web browser-based interactive map for use primarily on PC. The itention is to see the entirety of the map with the text and legend overlayed, something difficult to present in a visually pleasing manner on mobile devices. 
 
  
