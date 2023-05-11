@@ -130,7 +130,7 @@ var config = {
       hidden: false,
       title: "Massachusetts Obesity",
       image: "https://upload.wikimedia.org/wikipedia/commons/d/d1/Walk_to_School_Day%2C_Boston_Common%2C_October_3%2C_2012_%288050401591%29.jpg",
-      description: "<p class='source'>Source: <a target='_blank'href=’https://commons.wikimedia.org/wiki/File:Walk_to_School_Day,_Boston_Common,_October_3,_2012_(8050401591).jpg’>Mass. Walk to School Day via Public Domain</a></p>Obesity is an area of concern across the country, and Massachusetts is no exception. Though it is ranked among the least obese states in the country, it still struggles with health factors related to high BMI. Areas of particular concern are most of the western half of the state, in addition to areas around the south coast. Though the southeast portion of the state is traditionally higher income, it still suffers from higher rates of obesity than its northeasterly regional neighbor. There are also higher rates of obesity in areas just to the south of Boston proper, areas historically known as lower income areas of the metropolitan area. Though Massachusetts ranks high on health relative to the rest of the country, it is by no means immune to the issues with processed foods and access to health services.",
+      description: "<p class='source'>Source: <a target='_blank'href=’https://commons.wikimedia.org/wiki/File:Walk_to_School_Day,_Boston_Common,_October_3,_2012_(8050401591).jpg’>Mass. Walk to School Day via Public Domain</a></p>Obesity is an area of concern across the country, and Massachusetts is no exception. Though it is ranked among the least obese states in the country, it still struggles with health factors related to high BMI. Areas of particular concern are most of the western half of the state, in addition to areas around the coast. Though the area just off the coast of Boston is traditionally higher income, it still suffers from higher rates of obesity than its regional neighbor. There are also higher rates of obesity in areas just to the south of Boston proper, areas historically known as lower income areas of the metropolitan area. Though Massachusetts ranks high on health relative to the rest of the country, it is by no means immune to the issues with processed foods and access to health services.",
       location: {
         center: [-71.925258, 42.377117],
         zoom: 8,
@@ -160,7 +160,7 @@ var config = {
       alignment: "left",
       hidden: false,
       title: "Springfield Income",
-      image: "https://upload.wikimedia.org/wikipedia/commons/a/a4/Springfield_Municipal_Group_2012_12_24.JPG",
+      image: "./images/Springfield_Municipal_Group_2012_12_24.jpg",
       description: "<p class='source'>Source: <a target='_blank'href=’https://commons.wikimedia.org/wiki/File:Springfield_Municipal_Group_2012_12_24.JPG’>Dms1788</a>, <a href=’https://creativecommons.org/licenses/by-sa/3.0’>CC BY-SA 3.0</a>, </p>Springfield, the largest city in Massachusetts west of Worcester, has fallen far behind the eastern cities in both health and economic metrics. While the per capita income is still above that of the rest of the country at $42,000 per capita, it falls well below the Boston metro area where median income can reach up to $190,000. This creates a host of issues, not least of which the disparity in cost-of-living. Massachusetts is also one of the most expensive states in the country for cost-of-living, negating the slightly higher-than-national income entirely. Additionally, there is difficulty with opioid addiction in the area, adding further stressors to the community. There is, however, an interestingly high median income in the suburban areas of Springfield, suggesting that the city itself has been underdeveloped economically in recent years as higher-earning individuals trade suburban space for that of the city proper.",
       location: {
         center: [-72.53952002, 42.11550322],
@@ -410,7 +410,7 @@ var config = {
       alignment: "left",
       hidden: false,
       title: "Boston Income",
-      image: "https://upload.wikimedia.org/wikipedia/commons/3/36/Boston%2C_1775bsmall1.png",
+      image: "./images/Boston,_1775bsmall1.png",
       description: "<p class='source'>Source: <a target='_blank'href=’https://commons.wikimedia.org/wiki/File:Boston,_1775bsmall1.png’>Thomas Hyde Page</a>, <a href=’https://creativecommons.org/licenses/by/3.0’>CC BY 3.0</a><p/>Boston is the largest city in Massachusetts by a good margin, with a population of 665,000 in 2022. Boston’s status as an old port city allows for a high tax bracket and higher than average cost of living. Boston is built in a semi-circular formation, unusual civic design for a large city in the United States. This is due to its age and the roads having been built for horses and horse-carriages. This causes for the city itself to become striated, with the areas closest to the port having the highest levels of median income. Back Bay and Seaport, two of the most affluent neighborhoods in the country, have median incomes of $141,000 and $151,000 respectively.",
       location: {
         center: [-71.057083, 42.361145],
@@ -451,7 +451,7 @@ var config = {
       alignment: "left",
       hidden: false,
       title: "Boston Depression",
-      image: "https://upload.wikimedia.org/wikipedia/commons/1/14/Mass_General_Hospital_-_MGH.jpg",
+      image: "./images/Mass_General_Hospital_-_MGH.jpg",
       description: "<p class='source'>Source: <a target='_blank'<a href=’https://commons.wikimedia.org/wiki/File:Mass_General_Hospital_-_MGH.jpg’>Tom Austin</a>, <a href=’https://creativecommons.org/licenses/by-sa/3.0’>CC BY-SA 3.0</a></p>Boston fares particularly well when compared to the national average rates of depression for large cities. The city of Boston only reports 19.1% of individuals having suffered from depression, while the statewide rate is far higher at 30%. This is an especially interesting statistic given that survey have placed Boston in the top 10 gloomiest cities in the United States. This gloomy status is given due to the long, seemingly never-ending winters and the harsh nor’easters that sweep across the northwest. The natural landscapes surrounding the city may be a mitigating factor in the low depression rates relative to the climate, with extra consideration given to green space by state and local governments.",
       location: {
         center: [-71.057083, 42.361145],
